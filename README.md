@@ -2,7 +2,7 @@
 
 [tips for curators](./curations.md)
 
-The repository contains links to conference publications on Knowledge graph. The links to conference publications are arranged in the reverse chronological order of conference dates from the conferences below. Please click on a year below beside a conference name to see publications of the conference in that year.
+The repository contains links to conference publications on Knowledge Graph. The links to conference publications are arranged in the reverse chronological order of conference dates from the conferences below. Please click on a year below beside a conference name to see publications of the conference in that year.
 
 - AAAI 2020 | [2019](./conference_publication/aaai2019/README.md) | 2018 
 - ACL 2020 | 2019 | 2018
