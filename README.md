@@ -1,4 +1,4 @@
-# Top-conference Papers on Knowledge Graph
+# Conference Publications on Knowledge Graph
 
 [tips for curators](./curations.md)
 
