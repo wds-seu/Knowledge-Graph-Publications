@@ -1,6 +1,6 @@
-# 东南大学万维网数据科学实验室-知识图谱顶会论文导读
+# Southeast University WDS Research Team - Top Conference Papers on Knowledge Graph
 
-## 目录
+## Table of Content
 
 * 2020
 * [2019](#2019)
