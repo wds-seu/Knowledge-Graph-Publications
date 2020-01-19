@@ -25,6 +25,6 @@
 
 ### AAAI2019
 
-* [Embedding Uncertain Knowledge Graphs. *Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun, Carlo Zaniolo*](http://xxx.com/1.pdf "提示文本")
-
+* Embedding Uncertain Knowledge Graphs. *Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun, Carlo Zaniolo*
+ * [PDF](http://xxx.com/1.pdf) Keywords: XXX, XXX, XXX [导读](http://xxx.com/ "导读文字")
 
