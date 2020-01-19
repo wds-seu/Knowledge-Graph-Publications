@@ -1,4 +1,6 @@
-# Southeast University WDS Research Team - Top Conference Papers on Knowledge Graph
+# Top-conference Papers on Knowledge Graph
+
+Curators:   Xiaoyu Shang, Jiong Zhang, Xiang Zhang
 
 ## Table of Content
 
