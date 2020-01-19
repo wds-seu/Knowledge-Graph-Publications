@@ -1,4 +1,4 @@
-# Conference Publications on Knowledge Graph
+# Top-conference Papers on Knowledge Graph
 
 [tips for curators](./curations.md)
 
@@ -7,6 +7,7 @@ The repository contains links to conference publications on Knowledge Graph. The
 - AAAI 2020 | [2019](./conference_publication/aaai2019/README.md) | 2018 
 - ACL 2020 | 2019 | 2018
 - CIKM 2020 | 2019 | 2018
+- COLING 2020 | 2019 | 2018
 - EMNLP 2020 | 2019 | 2018
 - ICDE 2020 | 2019 | 2018
 - ICDM 2020 | 2019 | 2018
