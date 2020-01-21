@@ -4,3 +4,4 @@
 * [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/ncs_acl2019/README.md)
 * [Relation Embedding with Dihedral Group in Knowledge Graph](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/xl_acl2019/README.md)
 * [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/xwy_acl2019/README.md)
+* [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/brs_acl2019/README.md)
