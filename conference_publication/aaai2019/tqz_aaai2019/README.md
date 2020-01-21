@@ -5,6 +5,6 @@
 - **interpretation**: [OpenKG](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247487143&idx=1&sn=ee13fcca9b6010be9bae56da505833cf&utm_source=tuicool&utm_medium=referral)
 - **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3798)
 - **code**:
-- **dataset**:
+- **dataset**:  DBP-LGD, DBPGEO, DBP-YAGO
 - **ppt/video**:
 - **curation**: Xiaoyu Shang 
