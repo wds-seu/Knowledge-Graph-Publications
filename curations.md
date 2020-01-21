@@ -21,6 +21,7 @@
   * 论文现场报告的video或ppt
   * 论文的实验数据集名称
 * 论文的源码、video、ppt和实验数据集名称可以留空，等待在讨论班报告该论文的同学填入。
+* [模板](./conference_publication/aaai2019/tqz_aaai2019/README.md)
 
 ### 注意事项
 
