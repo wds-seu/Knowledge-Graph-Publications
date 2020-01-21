@@ -14,8 +14,7 @@
   * 论文作者
   * 摘要
   * 关键词（论文中一般会给出，若没有也可自己提取）
-  * 论文解读文章的链接（review page），加入的链接后可注明链接来源。如：  
-    interpretation: review page(来源：paperweekly)
+  * 论文解读文章的链接（review page）
   * 论文PDF链接
   * 论文的源码
   * 论文的实验数据集名称
