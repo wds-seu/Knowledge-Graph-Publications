@@ -7,4 +7,4 @@
 - **code**:
 - **dataset**:  DBP-LGD, DBPGEO, DBP-YAGO
 - **ppt/video**:
-- **curation**: Xiaoyu Shang 
+- **curator**: Xiaoyu Shang 
