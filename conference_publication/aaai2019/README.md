@@ -8,4 +8,4 @@
 - [Validation of Growing Knowledge Graphs by Abductive Text Evidences](./dpw_aaai2019/README.md)
 
 ## Natural Language Processing
-- [One for ALL: Neural Joint Modeling of Entities and Events](./nn_aaai2019/README.md)
+- [One for All: Neural Joint Modeling of Entities and Events](./nn_aaai2019/README.md)
