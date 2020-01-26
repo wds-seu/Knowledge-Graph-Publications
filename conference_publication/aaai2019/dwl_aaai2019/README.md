@@ -4,7 +4,7 @@
 - **keywords**: 
 - **interpretation**:
 - **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3771)
-- **code**:[github](https://github.com/GnodIsNait/mushroom)
+- **code**: [github](https://github.com/GnodIsNait/mushroom)
 - **dataset**: WordNet, Freebase 
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
