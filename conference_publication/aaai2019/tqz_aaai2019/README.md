@@ -5,6 +5,6 @@
 - **interpretation**: [OpenKG](https://mp.weixin.qq.com/s/Q-NlOwypscK8x2vooS2B8w)
 - **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3798)
 - **code**:
-- **dataset**:  DBP-LGD, DBPGEO, DBP-YAGO
+- **dataset**: DBP-LGD, DBP-GEO, DBP-YAGO (extracted from DBpedia, LinkedGeoData, Geonames and YAGO)
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
