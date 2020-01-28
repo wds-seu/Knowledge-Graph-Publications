@@ -7,3 +7,5 @@
 * [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/brs_acl2019/README.md)
 * [Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/llp_acl2019/README.md)
 * [Knowledge-aware Pronoun Coreference Resolution](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/zss_acl2019/README.md)
+* [ERNIE: Enhanced Language Representation with Informative Entities](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/zhl_acl2019/README.md)
+* [Neural Relation Extraction for Knowledge Base Enrichment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2019/twq_acl2019/README.md)
