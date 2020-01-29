@@ -3,6 +3,7 @@
 * [Convolutional 2D Knowledge Graph Embeddings](./msr_aaai2018/README.md)
 * [TorusE: Knowledge Graph Embedding on a Lie Group](./tr_aaai2018/README.md)
 * [Open-World Knowledge Graph Completion](./sw_aaai2018/README.md)
+* [Embedding of Hierarchically Typed Knowledge Bases](./zkw_aaai2018/README.md)
 ## Cognitive Systems
 * [Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph](./avm_aaai2018/README.md)
 ## Machine Learning Applications
