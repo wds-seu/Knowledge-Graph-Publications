@@ -9,3 +9,5 @@
 * [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](./www_aaai2018/README.md)
 ## NLP and Knowledge Representation
 * [Knowledge Graph Embedding With Iterative Guidance From Soft Rules](./gww_aaai2018/README.md)
+## NLP and Text Mining
+* [Variational Reasoning for Question Answering With Knowledge Graph](./zdk_aaai2018/README.md)
