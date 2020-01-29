@@ -4,7 +4,7 @@
 * **keywords**: GraphGAN
 * **interpretation**: [来源: 机器之心](https://www.jiqizhixin.com/articles/2018-06-04-15)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16611/15969)
-* **code**: [link]()
+* **code**: [link](https://github.com/hwwang55/GraphGAN)
 * **dataset**:
 * **ppt/video**:
 * **curation**: Jiong Zhang 
