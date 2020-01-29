@@ -5,3 +5,5 @@
 * [Open-World Knowledge Graph Completion](./sw_aaai2018/README.md)
 ## Cognitive Systems
 * [Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph](./avm_aaai2018/README.md)
+## Machine Learning Applications
+* [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](./www_aaai2018/README.md)
