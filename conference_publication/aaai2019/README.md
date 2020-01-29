@@ -4,6 +4,9 @@
 - [Triple Classification Using Regions and Fine-Grained Entity Typing](./dwl_aaai2019/README.md)
 - [Entity Alignment between Knowledge Graphs Using Attribute Embeddings](./tqz_aaai2019/README.md)
 
+## Cognitive Systems  
+- [Simulation-Based Approach to Efficient Commonsense Reasoning in Very Large Knowledge Bases ](./sg_aaai2019/README.md)  
+
 ## Knowledge Representation and Reasoning
 - [Validation of Growing Knowledge Graphs by Abductive Text Evidences](./dpw_aaai2019/README.md)
 
