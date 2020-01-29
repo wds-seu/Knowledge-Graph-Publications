@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: [来源: 大专栏](https://www.dazhuanlan.com/2019/12/15/5df63a7a55feb/)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17181/15750)
-* **code**: [link]()
+* **code**: [link 暂无]()
 * **dataset**:
 * **ppt/video**:
 * **curation**: Jiong Zhang 
