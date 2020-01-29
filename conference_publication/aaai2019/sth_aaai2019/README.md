@@ -1,0 +1,10 @@
+# End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion 
+- **author**: Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, Bowen Zhou   
+- **abstract**: Knowledge graph embedding has been an active research topic for knowledge base completion, with progressive improvement from the initial TransE, TransH, DistMult et al to the current state-of-the-art ConvE. ConvE uses 2D convolution over embeddings and multiple layers of nonlinear features to model knowledge graphs. The model can be efficiently trained and scalable to large knowledge graphs. However, there is no structure enforcement in the embedding space of ConvE. The recent graph convolutional network (GCN) provides another way of learning graph node embedding by successfully utilizing graph connectivity structure. In this work, we propose a novel end-to-end StructureAware Convolutional Network (SACN) that takes the benefit of GCN and ConvE together. SACN consists of an encoder of a weighted graph convolutional network (WGCN), and a decoder of a convolutional network called Conv-TransE. WGCN utilizes knowledge graph node structure, node attributes and edge relation types. It has learnable weights that adapt the amount of information from neighbors used in local aggregation, leading to more accurate embeddings of graph nodes. Node attributes in the graph are represented as additional nodes in the WGCN. The decoder Conv-TransE enables the state-of-the-art ConvE to be translational between entities and relations while keeps the same link prediction performance as ConvE. We demonstrate the effectiveness of the proposed SACN on standard FB15k-237 and WN18RR datasets, and it gives about 10% relative improvement over the state-of-theart ConvE in terms of HITS@1, HITS@3 and HITS@10.
+- **keywords**: 
+- **interpretation**: [cnblogs](https://www.cnblogs.com/jws-2018/p/11519383.html)
+- **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4164/4042)
+- **code**: [github](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
+- **dataset**: FB15k-237-Attr (extracted from FB24k)
+- **ppt/video**: 
+- **curator**: Xiaoyu Shang
