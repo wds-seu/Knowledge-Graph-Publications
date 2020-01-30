@@ -19,3 +19,5 @@
 ## Machine Learning Methods
 * [Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion 暂未补充论文解读](./mhs_aaai2018/README.md)
 * [On Multi-Relational Link Prediction With Bilinear Models 暂未补充论文解读](./wgl_aaai2018/README.md)
+## NLP and Machine Learning
+* [Large Scaled Relation Extraction With Reinforcement Learning](./zhl_aaai2018/README.md)
