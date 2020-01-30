@@ -1,0 +1,10 @@
+# Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning With Confidence
+* **author**: Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin
+* **abstract**: Knowledge graphs (KGs), which could provide essential relational information between entities, have been widely utilized in various knowledge-driven applications. Since the overall human knowledge is innumerable that still grows explosively and changes frequently, knowledge construction and update inevitably involve automatic mechanisms with less human supervision, which usually bring in plenty of noises and conflicts to KGs. However, most conventional knowledge representation learning methods assume that all triple facts in existing KGs share the same significance without any noises. To address this problem, we propose a novel confidence-aware knowledge representation learning framework (CKRL), which detects possible noises in KGs while learning knowledge representations with confidence simultaneously. Specifically, we introduce the triple confidence to conventional translation-based methods for knowledge representation learning. To make triple confidence more flexible and universal, we only utilize the internal structural information in KGs, and propose three kinds of triple confidences considering both local and global structural information. In experiments, We evaluate our models on knowledge graph noise detection, knowledge graph completion and triple classification. Experimental results demonstrate that our confidence-aware models achieve significant and consistent improvements on all tasks, which confirms the capability of CKRL modeling confidence with structural information in both KG noise detection and knowledge representation learning.
+* **keywords**: confidence, noise, knowledge representation learning; 
+* **interpretation**: [来源: PaperWeekly](https://www.sohu.com/a/224051601_500659)
+* **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16577/16028)
+* **code**: [link]( https://github.com/thunlp/CKRL)
+* **dataset**:
+* **ppt/video**:
+* **curation**: Jiong Zhang 
