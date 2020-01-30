@@ -26,3 +26,11 @@
 - [Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](./lcl_aaai2019/README.md)  
 - [Exploring Knowledge Graphs in an Interpretable Composite Approach for Text Entailment](./sfh_aaai2019/README.md)  
 - [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](./whl_aaai2019/README.md)
+- [Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference](./ymn_aaai2019/README.md)  
+  
+## Vision
+- [I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs](./gzx_aaai2019/README.md)  
+- [KVQA: Knowledge-Aware Visual Question Answering](./smy_aaai2019/README.md)  
+
+## Demonstration Track  
+- [K3S: Knowledge-Driven Solution Support System](./zsw_aaai2019/README.md)
