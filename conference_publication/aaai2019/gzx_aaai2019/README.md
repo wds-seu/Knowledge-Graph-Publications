@@ -1,0 +1,10 @@
+# I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs  
+- **author**: Junyu Gao, Tianzhu Zhang, Changsheng Xu    
+- **abstract**: Recently, with the ever-growing action categories, zero-shot action recognition (ZSAR) has been achieved by automatically mining the underlying concepts (e.g., actions, attributes) in videos. However, most existing methods only exploit the visual cues of these concepts but ignore external knowledge information for modeling explicit relationships between them. In fact, humans have remarkable ability to transfer knowledge learned from familiar classes to recognize unfamiliar classes. To narrow the knowledge gap between existing methods and humans, we propose an end-to-end ZSAR framework based on a structured knowledge graph, which can jointly model the relationships between action-attribute, action-action, and attribute-attribute. To effectively leverage the knowledge graph, we design a novel Two-Stream Graph Convolutional Network (TS-GCN) consisting of a classifier branch and an instance branch. Specifically, the classifier branch takes the semantic-embedding vectors of all the concepts as input, then generates the classifiers for action categories. The instance branch maps the attribute embeddings and scores of each video instance into an attribute-feature space. Finally, the generated classifiers are evaluated on the attribute features of each video, and a classification loss is adopted for optimizing the whole network. In addition, a self-attention module is utilized to model the temporal information of videos. Extensive experimental results on three realistic action benchmarks Olympic Sports, HMDB51 and UCF101 demonstrate the favorable performance of our proposed framework.
+- **keywords**: 
+- **interpretation**:
+- **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4843/4716)
+- **code**: 
+- **dataset**:  
+- **ppt/video**:
+- **curator**: Xiaoyu Shang 
