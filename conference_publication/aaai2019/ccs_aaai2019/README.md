@@ -4,7 +4,7 @@
 - **keywords**: 
 - **interpretation**:
 - **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4210/4088)
-- **code**: 
+- **code**: [github](https://github.com/stasl0217/UKGE)
 - **dataset**: CN15k, NL27k, PPI5k (extracted from ConceptNet, NELL and STRING respectively) 
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
