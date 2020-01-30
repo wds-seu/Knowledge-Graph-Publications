@@ -4,7 +4,7 @@
 - **keywords**: 
 - **interpretation**:
 - **pdf**: [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4682/4560)
-- **code**: 
+- **code**: [github](https://github.com/ssvivian/XTE)
 - **dataset**: BPI, GHS 
 - **ppt/video**:
 - **curator**: Xiaoyu Shang
