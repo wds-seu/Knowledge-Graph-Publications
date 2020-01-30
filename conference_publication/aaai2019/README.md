@@ -22,4 +22,7 @@
 - [Explainable Reasoning over Knowledge Graphs for Recommendation](./wwx_aaai2019/README.md)  
 
 ## Natural Language Processing
-- [One for All: Neural Joint Modeling of Entities and Events](./nn_aaai2019/README.md)
+- [One for All: Neural Joint Modeling of Entities and Events](./nn_aaai2019/README.md)  
+- [Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection](./lcl_aaai2019/README.md)  
+- [Exploring Knowledge Graphs in an Interpretable Composite Approach for Text Entailment](./sfh_aaai2019/README.md)  
+- [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](./whl_aaai2019/README.md)
