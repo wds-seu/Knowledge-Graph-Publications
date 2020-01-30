@@ -18,4 +18,4 @@
 * [Improving Neural Fine-Grained Entity Typing With Knowledge Attention](./xll_aaai2018/README.md)
 ## Machine Learning Methods
 * [Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion 暂未补充论文解读](./mhs_aaai2018/README.md)
-* [On Multi-Relational Link Prediction With Bilinear Models](./wgl_aaai2018/README.md)
+* [On Multi-Relational Link Prediction With Bilinear Models 暂未补充论文解读](./wgl_aaai2018/README.md)
