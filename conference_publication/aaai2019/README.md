@@ -17,6 +17,9 @@
 - [On Completing Sparse Knowledge Base with Transitive Relation Embedding](./zlx_aaai2019/README.md)
 
 ## Machine Learning
+- [Embedding Uncertain Knowledge Graphs](./ccs_aaai2019/README.md)  
+- [Improved Knowledge Graph Embedding Using Background Taxonomic Information](./frp_aaai2019/README.md)
+- [Explainable Reasoning over Knowledge Graphs for Recommendation](./wwx_aaai2019/README.md)  
 
 ## Natural Language Processing
 - [One for All: Neural Joint Modeling of Entities and Events](./nn_aaai2019/README.md)
