@@ -15,5 +15,6 @@
 * [Does William Shakespeare REALLY Write Hamlet? Knowledge Representation Learning With Confidence](./xll_aaai2018/README.md)
 ## NLP and Text Mining
 * [Variational Reasoning for Question Answering With Knowledge Graph](./zdk_aaai2018/README.md)
+* [Improving Neural Fine-Grained Entity Typing With Knowledge Attention](./xll_aaai2018/README.md)
 ## Machine Learning Methods
 * [Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion 暂未补充论文解读](./mhs_aaai2018/README.md)
