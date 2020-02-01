@@ -5,6 +5,6 @@
 - **interpretation**: 
 - **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3936/3814)
 - **code**:
-- **dataset**: Cyc KB 
+- **dataset**: Cyc, KB 
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
