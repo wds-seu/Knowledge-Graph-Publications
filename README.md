@@ -20,6 +20,5 @@ The repository contains links to conference publications on Knowledge Graph. The
 - SIGMOD 2020 | 2019 | 2018
 - WSDM 2020 | 2019 | 2018
 - WWW 2020 | 2019 | 2018
-- COLING 2019|
 
 
