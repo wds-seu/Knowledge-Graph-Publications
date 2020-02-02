@@ -1,1 +1,1 @@
-# Publications in AAAI2020 Groupd by Tracks
+# Publications in AAAI2020 About Knowledge Graph
