@@ -6,6 +6,6 @@
 * **interpretation**: 
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-1011.pdf)
 * **code**: 
-* **dataset**:
+* **dataset**:WN18, FB15K
 * **ppt/video**: 
 * **curator**: Chang Liu
