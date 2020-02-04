@@ -1,0 +1,10 @@
+# LENA: Locality-Expanded Neural Embedding for Knowledge Base Completion  
+- **author**: Fanshuang Kong, Richong Zhang, Yongyi Mao, Ting Deng  
+- **abstract**: Embedding based models for knowledge base completion have demonstrated great successes and attracted significant research interest. In this work, we observe that existing embedding models all have their loss functions decomposed into atomic loss functions, each on a triple or an postulated edge in the knowledge graph. Such an approach essentially implies that conditioned on the embeddings of the triple, whether the triple is factual is independent of the structure of the knowledge graph. Although arguably the embeddings of the entities and relation in the triple contain certain structural information of the knowledge base, we believe that the global information contained in the embeddings of the triple can be insufficient and such an assumption is overly optimistic in heterogeneous knowledge bases. Motivated by this understanding, in this work we propose a new embedding model in which we discard the assumption that the embeddings of the entities and relation in a triple is a sufficient statistic for the triple’s factual existence. More specifically, the proposed model assumes that whether a triple is factual depends not only on the embedding of the triple but also on the embeddings of the entities and relations in a larger graph neighbourhood. In this model, attention mechanisms are constructed to select the relevant information in the graph neighbourhood so that irrelevant signals in the neighbourhood are suppressed. Termed locality-expanded neural embedding with attention (LENA), this model is tested on four standard datasets and compared with several stateof-the-art models for knowledge base completion. Extensive experiments suggest that LENA outperforms the existing models in virtually every metric.
+- **keywords**: 
+- **interpretation**: 
+- **pdf**: [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4144/4022)
+- **code**: [github](https://github.com/fskong/LENA)
+- **dataset**: FB15, WN18
+- **ppt/video**:
+- **curator**: Xiaoyu Shang
