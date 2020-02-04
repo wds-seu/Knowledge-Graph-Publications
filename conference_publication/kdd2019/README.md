@@ -7,5 +7,5 @@
 - [Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](./RLKB_KDD2019/README.md)
 - [AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation](./AKUPM_KDD2019/README.md)
 - [Constructing High Precision Knowledge Bases with Subjective and Factual Attributes](./CHPKB_KDD2019/README.md)
-
+- [Towards Knowledge-Based Personalized Product Description Generation in E-commerce](./KBPPD_KDD2019/README.md)
 
