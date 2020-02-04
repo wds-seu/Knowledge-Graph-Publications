@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://arxiv.org/abs/1905.07854v1)
 - **code**: 
-- **dataset**: Amazon-book, Last-FM, and Yelp2018
+- **dataset**: Amazon-book, Last-FM,  Yelp2018
 - **ppt/video**:
 - **curator**: Jidong He
