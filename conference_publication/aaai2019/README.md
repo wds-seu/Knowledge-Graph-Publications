@@ -32,5 +32,9 @@
 - [I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs](./gzx_aaai2019/README.md)  
 - [KVQA: Knowledge-Aware Visual Question Answering](./smy_aaai2019/README.md)  
 
+<<<<<<< HEAD
 ## Demonstration Track  
+=======
+## Demonstration Track
+>>>>>>> b103e23661f414a52442d26151cf89084cc42b5f
 - [K3S: Knowledge-Driven Solution Support System](./zsw_aaai2019/README.md)
