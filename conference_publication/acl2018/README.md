@@ -4,3 +4,4 @@
 * [Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/vlm_acl2018/README.md)
 * [Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/lxs_acl2018/README.md)
 * [Neural Natural Language Inference Models Enhanced with External Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/czl_acl2018/README.md)
+* [A Study of the Importance of External Knowledge in the Named Entity Recognition Task](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/sdd_acl2018/README.md)
