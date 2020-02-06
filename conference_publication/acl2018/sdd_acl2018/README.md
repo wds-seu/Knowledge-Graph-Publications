@@ -5,6 +5,6 @@
 * **interpretation**: 
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-2039.pdf)
 * **code**: 
-* **dataset**: s CoNLL2003, MUC-7
+* **dataset**: CoNLL2003, MUC-7
 * **ppt/video**: 
 * **curator**: Chang Liu
