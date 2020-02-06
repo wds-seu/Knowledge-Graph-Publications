@@ -4,7 +4,7 @@
 - **keywords**: Semantic Proximity Search; Heterogeneous Graph; Interactive Paths Embedding
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219953?download=true)
-- **code**: [code]l(https://github.com/shuaiOKshuai/IPE)
+- **code**: [code](https://github.com/shuaiOKshuai/IPE)
 - **dataset**: LinkedIn,Facebook,DBLP,Taobao
 - **ppt/video**:
 - **curator**: Mengya Ji
