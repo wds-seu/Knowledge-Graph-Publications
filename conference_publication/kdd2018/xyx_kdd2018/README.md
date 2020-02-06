@@ -1,0 +1,10 @@
+# Mobile Access Record Resolution on Large-Scale Identifier-Linkage Graphs
+- **author**: Shen Xin ; Weizhao Xian ; Martin Ester ; Hongxia Yang ; Zhongyao Wang ; Jiajun Bu ; Can Wang
+- **abstract**: The e-commerce era is witnessing a rapid increase of mobile Internet users. Major e-commerce companies nowadays see billions of mobile accesses every day. Hidden in these records are valuable user behavioral characteristics such as their shopping preferences and browsing patterns. And, to extract these knowledge from the huge dataset, we need to first link records to the corresponding mobile devices. This Mobile Access Records Resolution (MARR) problem is confronted with two major challenges: (1) device identifiers and other attributes in access records might be missing or unreliable; (2) the dataset contains billions of access records from millions of devices. To the best of our knowledge, as a novel challenge industrial problem of mobile Internet, no existing method has been developed to resolve entities using mobile device identifiers in such a massive scale. To address these issues, we propose a SParse Identifier-linkage Graph (SPI-Graph) accompanied with the abundant mobile device profiling data to accurately match mobile access records to devices. Furthermore, two versions (unsupervised and semi-supervised) of Parallel Graph-based Record Resolution (PGRR) algorithm are developed to effectively exploit the advantages of the large-scale server clusters comprising of more than 1,000 computing nodes. We empirically show superior performances of PGRR algorithms in a very challenging and sparse real data set containing 5.28 million nodes and 31.06 million edges from 2.15 billion access records compared to other state-of-the-arts methodologies.
+- **keywords**: Mobile access record resolution; Scalable algorithms; Big data; Graph algorithms
+- **interpretation**:
+- **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219916?download=true)
+- **code**: 
+- **dataset**: Subset1,Subset2,Subset3,Subset4,Subset5,Entire Dateset
+- **ppt/video**:
+- **curator**: Mengya Ji
