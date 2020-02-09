@@ -6,6 +6,9 @@
 * [Asking Clarification Questions in Knowledge-Based Question Answering](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/xwt_emnlp2019/README.md)
 * [Answering Complex Open-domain Questions Through Iterative Query Generation](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/qlm_emnlp2019/README.md)
 * [Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/sle_emnlp2019/README.md)
+* [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/cwf_emnlp2019/README.md) 
+* [Event Causality Recognition Exploiting Multiple Annotators’ Judgments and Background Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/kit_emnlp2019/README.md)
+* [Feature2Vec: Distributional semantic modelling of human property knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/dmd_emnlp2019/README.md)
 
 
 
@@ -17,6 +20,7 @@
 * [DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/tcl_emnlp2019/README.md)
 * [Cross-Lingual Dependency Parsing Using Code-Mixed TreeBank](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/zzf_emnlp2019/README.md)
 * [Aligning Cross-Lingual Entities with Multi-Aspect Information](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/yzs_emnlp2019/README.md)
+* [Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/qlc_emnlp2019/README.md) 
 
 
 
@@ -35,6 +39,8 @@
 ## Information Retrieval and Document Analysis
 
 * [A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/zlf_emnlp2019/README.md)
+* [EntEval: A Holistic Evaluation Benchmark for Entity Representations](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/ccc_emnlp2019/README.md) 
+* [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/hsq_emnlp2019/README.md)
 
 
 
@@ -46,6 +52,11 @@
 * [Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/ahs_emnlp2019/README.md)
 * [Coverage of Information Extraction from Sentences and Paragraphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/rjm_emnlp2019/README.md)
 * [Easy First Relation Extraction with Information Redundancy](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/mwf_emnlp2019/README.md)
+* [Event Representation Learning Enhanced with External Commonsense Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/dll_emnlp2019/README.md)
+* [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/jhl_emnlp2019/README.md)
+* [Fine-Grained Evaluation for Entity Linking](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/rhp_emnlp2019/README.md)
+* [Gazetteer-Enhanced Attentive Neural Networks for Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/llh_emnlp2019/README.md)
+* [Improving Distantly-Supervised Relation Extraction with Joint Label Embedding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/hzs_emnlp2019/README.md)
 
 
 
@@ -56,10 +67,18 @@
 
 
 
+## Lexical Semantics
+
+* [Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/tn_emnlp2019/README.md)
+
+
+
 ## Machine Learning
 
 * [A Logic-Driven Framework for Consistency of Neural Models](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lgm_emnlp2019/README.md)
 * [Commonsense Knowledge Mining from Pretrained Models](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/fdr_emnlp2019/README.md)
+* [Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/yhd_emnlp2019/README.md)
+* [Identifying and Explaining Discriminative Attributes](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/sf_emnlp2019/README.md)
 
 
 
@@ -86,6 +105,9 @@
 * [CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/ssd_emnlp2019/README.md)
 * [Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/mf_emnlp2019/README.md)
 * [DIVINE A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lc_emnlp2019/README.md)
+* [Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/mtb_emnlp2019/README.md)
+* [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/llh2_emnlp2019/README.md)
+* [GeoSQA: A Benchmark for Scenario-based Question Answering in the Geography Domain at High School Level](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/hsl_emnlp2019/README.md)
 
 
 
@@ -104,6 +126,12 @@
 ## Sentiment Analysis
 
 * [A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/fyd_emnlp2019/README.md)
+
+
+
+## Sentence-level Semantics
+
+* [Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/ccg_emnlp2019/README.md) 
 
 
 
