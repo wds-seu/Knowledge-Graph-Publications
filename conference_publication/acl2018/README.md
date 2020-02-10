@@ -10,3 +10,4 @@
 * [LinkNBed: Multi-Graph Representation Learning with Entity Linkage](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/tsd_acl2018/README.md)
 * [Improving Entity Linking by Modeling Latent Relations between Mentions](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/lt_acl2018/README.md)
 * [A Walk-based Model on Entity Graphs for Relation Extraction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/cma_acl2018/README.md)
+* [Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/jkm_acl2018/README.md)
