@@ -8,3 +8,4 @@
 * [Knowledge Graph Embedding with Numeric Attributes of Entities](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/ww_acl2018/README.md)
 * [Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/mvv_acl2018/README.md)
 * [LinkNBed: Multi-Graph Representation Learning with Entity Linkage](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/tsd_acl2018/README.md)
+* [Improving Entity Linking by Modeling Latent Relations between Mentions](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2018/lt_acl2018/README.md)
