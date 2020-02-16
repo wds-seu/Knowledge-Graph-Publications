@@ -1,0 +1,10 @@
+# Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning 
+- **author**: Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen  
+- **abstract**: Reasoning is essential for the development of large knowledge graphs, especially for completion, which aims to infer new triples based on existing ones. Both rules and embeddings can be used for knowledge graph reasoning and they have their own advantages and difficulties. Rule-based reasoning is accurate and explainable but rule learning with searching over the graph always suffers from efficiency due to huge search space. Embedding-based reasoning is more scalable and efficient as the reasoning is conducted via computation between embeddings, but it has difficulty learning good representations for sparse entities because a good embedding relies heavily on data richness. Based on this observation, in this paper we explore how embedding and rule learning can be combined together and complement each other's difficulties with their advantages. We propose a novel framework IterE iteratively learning embeddings and rules, in which rules are learned from embeddings with proper pruning strategy and embeddings are learned from existing triples and new triples inferred by rules. Evaluations on embedding qualities of IterE show that rules help improve the quality of sparse entity embeddings and their link prediction results. We also evaluate the efficiency of rule learning and quality of rules from IterE compared with AMIE+, showing that IterE is capable of generating high quality rules more efficiently. Experiments show that iteratively learning embeddings and rules benefit each other during learning and prediction.
+- **keywords**: knowledge graph; reasoning; embedding; rule learning
+- **interpretation**: 
+- **pdf**: [paper](https://arxiv.org/pdf/1903.08948.pdf)
+- **code**: [github](https://github.com/wencolani/IterE)
+- **dataset**: WN18-sparse, WN18RRsparse, FB15k-sparse, FB15k-237-sparse
+- **ppt/video**:
+- **curator**: Xiaoyu Shang 
