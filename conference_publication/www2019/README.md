@@ -1,1 +1,15 @@
 # Publications in WWW2019
+- [Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention](./flf_www2019/README.md)  
+- [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph](./mzc_www2019/README.md)  
+- [ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs](./oym_www2019/README.md)  
+- [BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge](./vmp_www2019/README.md)  
+- [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](./wzz_www2019/README.md)  
+- [Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning](./zpw_www2019/README.md)  
+- [Triple Trustworthiness Measurement for Knowledge Graph](./jxc_www2019/README.md)  
+- [A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity](./kzg_www2019/README.md)  
+- [Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference](./pyh_www2019/README.md)  
+- [Knowledge Graph Convolutional Networks for Recommender Systems](./wzx_www2019/README.md)  
+- [Tracy: Tracing Facts over Knowledge Graphs and Text](./esu_www2019/README.md)  
+- [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences](./cwh_www2019/README.md)  
+- [Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention](./gas_www2019/README.md)  
+
