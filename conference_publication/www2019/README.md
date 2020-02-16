@@ -12,4 +12,5 @@
 - [Tracy: Tracing Facts over Knowledge Graphs and Text](./esu_www2019/README.md)  
 - [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences](./cwh_www2019/README.md)  
 - [Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention](./gas_www2019/README.md)  
+- [Improved Cross-Lingual Question Retrieval for Community Question Answering](./rsg_www2019/README.md)
 
