@@ -5,7 +5,7 @@ We present a novel deep active learning framework, ActiveLink, which can be appl
 - **keywords**: Deep active learning; neural link prediction; incremental training 
 - **interpretation**: 
 - **pdf**: [paper](https://yangjiera.github.io/works/WWW2019b.pdf)
-- **code**: [githun](https://github.com/eXascaleInfolab/ActiveLink)
+- **code**: [github](https://github.com/eXascaleInfolab/ActiveLink)
 - **dataset**: FB15K237, WikiMovie
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
