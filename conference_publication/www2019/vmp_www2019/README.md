@@ -1,0 +1,10 @@
+# BOLT-K: Bootstrapping Ontology Learning via Transfer of Knowledge
+- **author**: Nikhita Vedula, Pranav Maneriker, Srinivasan Parthasarathy  
+- **abstract**: Dynamically extracting and representing continually evolving knowledge entities is an essential scaffold for grounded intelligence and decision making. Creating knowledge schemas for newly emerging, unfamiliar, domain-specific ideas or events poses the following challenges: (i) detecting relevant, often previously unknown concepts associated with the new domain; and (ii) learning ontological, semantically accurate relationships among the new concepts, despite having severely limited annotated data. To this end, we propose a novel LSTM-based framework with attentive pooling, BOLT-K, to learn an ontology for a target subject or domain. We bootstrap our ontology learning approach by adapting and transferring knowledge from an existing, functionally related source domain. We also augment the inadequate labeled data available for the target domain with various strategies to minimize human expertise during model development and training. BOLT-K first employs semantic and graphical features to recognize the entity or concept pairs likely to be related to each other, and filters out spurious concept combinations. It is then jointly trained on knowledge from the target and source domains to learn relationships among the target concepts. The target concepts and their corresponding relationships are subsequently used to construct an ontology. We extensively evaluate our framework on several, real-world bio-medical and commercial product domain ontologies. We obtain significant improvements of 5-25% F1-score points over state-of-the-art baselines. We also examine the potential of BOLT-K in detecting the presence of novel kinds of relationships that were unseen during training. 
+- **keywords**: 
+- **interpretation**: 
+- **pdf**: [paper](https://dl.acm.org/doi/10.1145/3308558.3313511)
+- **code**:
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Xiaoyu Shang 
