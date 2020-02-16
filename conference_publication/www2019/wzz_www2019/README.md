@@ -6,5 +6,5 @@
 - **pdf**: [paper](https://arxiv.org/pdf/1901.08907.pdf)
 - **code**: [github](https://github.com/hwwang55/MKR)
 - **dataset**:  MovieLens-1M, Book-Crossing, Last.FM, Bing-News 
-- **ppt/video**:
+- **ppt/video**: [bilibili科技公开课](https://www.bilibili.com/video/av88414989/)
 - **curator**: Xiaoyu Shang 
