@@ -1,18 +1,18 @@
-# Concept Pointer Network for Abstractive Summarization
+#  Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data 
 
-- **author**:  Wang Wenbo, Gao Yang, Huang Heyan, Zhou Yuxiang
+- **author**:Ruidong Wu ,Yuan Yao ,Xu Han,Ruobing Xie ,Zhiyuan Liu ,Fen Lin ,Leyu Lin ,Maosong Sun 
 
-- **abstract**: A quality abstractive summary should not only copy salient source texts as summaries but should also tend to generate new conceptual words to express concrete details. Inspired by the popular pointer generator sequence-to-sequence model, this paper presents a concept pointer network for improving these aspects of abstractive summarization. The network leverages knowledge-based, context-aware conceptualizations to derive an extended set of candidate concepts. The model then points to the most appropriate choice using both the concept set and original source text. This joint approach generates abstractive summaries with higher-level semantic concepts. The training model is also optimized in a way that adapts to different data, which is based on a novel method of distantly-supervised learning guided by reference summaries and testing set. Overall, the proposed approach provides statistically significant improvements over several state-of-the-art models on both the DUC-2004 and Gigaword datasets. A human evaluation of the model's abstractive abilities also supports the quality of the summaries produced within this framework. 
+- **abstract**: Open relation extraction (OpenRE) aims to extract relational facts from the open-domain corpus. To this end, it discovers relation patterns between named entities and then clusters those semantically equivalent patterns into a united relation cluster. Most OpenRE methods typically confine themselves to unsupervised paradigms, without taking advantage of existing relational facts in knowledge bases (KBs) and their high-quality labeled instances. To address this issue, we propose Relational Siamese Networks (RSNs) to learn similarity metrics of relations from labeled data of pre-defined relations, and then transfer the relational knowledge to identify novel relations in unlabeled data. Experiment results on two real-world datasets show that our framework can achieve significant improvements as compared with other state-of-the-art methods. Our code is available at https://github.com/thunlp/RSN. 
 
 - **keywords**:
 
-- **interpretation**:
+- **interpretation**:[review](https://blog.csdn.net/weixin_40400177/article/details/103067608)
 
-- **pdf**: [pdf](https://arxiv.org/pdf/1910.08486)
+- **pdf**: [pdf]( https://www.aclweb.org/anthology/D19-1021.pdf )
 
-- **code**: [code](https://github.com/wprojectsn/codes)
+- **code**: [code](https://github.com/thunlp/RSN)  
 
-- **dataset**:  English Gigaword Fifth Edition corpus,DUC2004
+- **dataset**: real-world RE datasets
 
 - **ppt/video**:
 
