@@ -11,7 +11,7 @@
 * [Feature2Vec: Distributional semantic modelling of human property knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/dmd_emnlp2019/README.md)
 * [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lnw_emnlp2019/README.md)
 * [Machine Reading Comprehension Using Structural Knowledge Graph-aware Network](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/qzf_emnlp2019/README.md)
-* [Rewarding Coreference Resolvers for Being Consistent with World Knowledge]
+* [Rewarding Coreference Resolvers for Being Consistent with World Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lch_emnlp2019/README.md)
 
 
 
@@ -26,6 +26,8 @@
 * [Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/qlc_emnlp2019/README.md) 
 * [Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-SQL](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lfl_emnlp2019/README.md) 
 * [Modeling Multi-mapping Relations for Precise Cross-lingual Entity Alignment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/sx_emnlp2019/README.md) 
+* [Task-Oriented Conversation Generation Using Heterogeneous Memory Networks](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lhj_emnlp2019/README.md) 
+* [Towards Knowledge-Based Recommender Dialog System](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/clz_emnlp2019/README.md) 
 
 
 
@@ -71,6 +73,8 @@
 * [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/scl_emnlp2019/README.md)
 * [Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/jzq_emnlp2019/README.md)
 * [Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/wyh_emnlp2019/README.md)
+* [Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/wll_emnlp2019/README.md)
+* [TuckER: Tensor Factorization for Knowledge Graph Completion](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/bah_emnlp2019/README.md)
 
 
 
@@ -104,6 +108,7 @@
 * [Identifying and Explaining Discriminative Attributes](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/sf_emnlp2019/README.md)
 * [Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/wxy_emnlp2019/README.md)
 * [Patient Knowledge Distillation for BERT Model Compression](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/scg_emnlp2019/README.md)
+* [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/fgb_emnlp2019/README.md)
 
 
 
@@ -139,6 +144,9 @@
 * [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lcc_emnlp2019/README.md)
 * [PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/sbc_emnlp2019/README.md)
 * [Representation Learning with Ordered Relation Paths for Knowledge Graph Completion](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/zlw_emnlp2019/README.md)
+* [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lch_emnlp2019/README.md)
+* [Social IQa: Commonsense Reasoning about Social Interactions](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/src_emnlp2019/README.md)
+* [What's Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/ksc_emnlp2019/README.md)
 
 
 
