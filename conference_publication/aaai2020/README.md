@@ -16,3 +16,7 @@
 * [Are Noisy Sentences Useless for Distant Supervised Relation Extraction?](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/shm_aaai2020/README.md)
 * [Self-­‐Attention Enhanced Selective Gate with Entity-­‐Aware Embedding for Distantly Supervised Relation Extraction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/lls_aaai2020/README.md)
 * [LATTE: Latent Type Modeling for Biomedical Entity Linking](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/zcb_aaai2020/README.md)
+* [Improving Entity Linking by Modeling Latent Entity Type Information](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/cwj_aaai2020/README.md)
+* [Leveraging Multi-­‐token Entities in Document-­‐level Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/hdw_aaai2020/README.md)
+* [Accelerating Column Generation via Flexible Dual Optimal Inequalities with Application to Entity Resolution](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/lws_aaai2020/README.md)
+* [Robust Named Entity Recognition with Truecasing Pretraining](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/aaai2020/mgr_aaai2020/README.md)
