@@ -29,7 +29,7 @@
 - [Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference](./ymn_aaai2019/README.md)  
 - [GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition](./cld_aaai2019/README.md)  
 - [Zero-Shot Neural Transfer for Cross-Lingual Entity Linking](./rxn_aaai2019/README.md)  
-- [Distantly Supervised Entity Relation Extraction with Adapted Manual Annotations](./sw_aaai2019/README.2019)  
+- [Distantly Supervised Entity Relation Extraction with Adapted Manual Annotations](./sw_aaai2019/README.md)  
 
 ## Vision
 - [I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs](./gzx_aaai2019/README.md)  
