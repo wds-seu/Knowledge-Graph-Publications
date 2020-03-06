@@ -13,4 +13,6 @@
 - [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences](./cwh_www2019/README.md)  
 - [Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention](./gas_www2019/README.md)  
 - [Improved Cross-Lingual Question Retrieval for Community Question Answering](./rsg_www2019/README.md)
-
+- [Be Concise and Precise: Synthesizing Open-Domain Entity Descriptions from Facts](./bm_www2019/README.md)
+- [Joint Entity Linking with Deep Reinforcement Learning](./fcl_www2019/README.md)
+- [Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning](./zh_www2019/README.md)
