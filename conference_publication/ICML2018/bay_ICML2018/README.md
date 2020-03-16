@@ -5,6 +5,6 @@
 - **interpretation**: 
 - **pdf**: [paper](http://proceedings.mlr.press/v80/wang18f/wang18f.pdf)
 - **code**: [code](https://github.com/QData/jeek)
-- **dataset**: 
+- **dataset**: ABIDE,  Gaussian datasets, Real-World Genomics Data
 - **ppt/video**:
 - **curator**: Mengya Ji
