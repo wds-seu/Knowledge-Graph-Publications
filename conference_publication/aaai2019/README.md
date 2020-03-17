@@ -27,12 +27,13 @@
 - [Exploring Knowledge Graphs in an Interpretable Composite Approach for Text Entailment](./sfh_aaai2019/README.md)  
 - [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](./whl_aaai2019/README.md)
 - [Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference](./ymn_aaai2019/README.md)  
-  
+- [GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition](./cld_aaai2019/README.md)  
+- [Zero-Shot Neural Transfer for Cross-Lingual Entity Linking](./rxn_aaai2019/README.md)  
+- [Distantly Supervised Entity Relation Extraction with Adapted Manual Annotations](./sw_aaai2019/README.md)  
+
 ## Vision
 - [I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs](./gzx_aaai2019/README.md)  
 - [KVQA: Knowledge-Aware Visual Question Answering](./smy_aaai2019/README.md)  
-
-## Demonstration Track  
 
 ## Demonstration Track
 - [K3S: Knowledge-Driven Solution Support System](./zsw_aaai2019/README.md)

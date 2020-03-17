@@ -1,0 +1,10 @@
+# Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge
+* **author**: Yang Deng, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei
+* **abstract**: Answer selection is an important but challenging task. Significant progresses have been made in domains where a large amount of labeled training data is available. However, obtaining rich annotated data is a time-consuming and expensive process, creating a substantial barrier for applying answer selection models to a new domain which has limited labeled data. In this paper, we propose Knowledge-aware Attentive Network (KAN), a transfer learning framework for cross-domain answer selection, which uses the knowledge base as a bridge to enable knowledge transfer from the source domain to the target domains. Specifically, we design a knowledge module to integrate the knowledge-based representational learning into answer selection models. The learned knowledge-based representations are shared by source and target domains, which not only leverages large amounts of cross-domain data, but also benefits from a regularization effect that leads to more general representations to help tasks in new domains. To verify the effectiveness of our model, we use SQuAD-T dataset as the source domain and three other datasets (i.e., Yahoo QA, TREC QA and InsuranceQA) as the target domains. The experimental results demonstrate that KAN has remarkable applicability and generality, and consistently outperforms the strong competitors by a noticeable margin for cross-domain answer selection.
+* **keywords**: Answer selection
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://www.aclweb.org/anthology/C18-1279.pdf)
+* **code**: 
+* **dataset**: SQuAD-T, TREC QA, InsuranceQA, Yahoo QA
+* **ppt/video**:
+* **curation**: Jiong Zhang 
