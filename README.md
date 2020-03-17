@@ -10,9 +10,9 @@ The repository contains links to conference publications on Knowledge Graph. The
 - COLING 2020 | [2018](./conference_publication/coling2018/README.md)
 - EMNLP 2020 | [2019](./conference_publication/emnlp2019/README.md) | [2018](./conference_publication/emnlp2018/README.md)
 - ICDE 2020 | 2019 | 2018
-- ICDM 2020 | 2019 | 2018
+- ICDM 2020 | 2019 | [2018](./conference_publication/icdm2018/README.md)
 - ICLR 2020 | 2019 | [2018](./conference_publication/iclr2018/README.md)
-- ICML 2020 | 2019 | 2018
+- ICML 2020 | 2019 | [2018](./conference_publication/ICML2018/README.md)
 - IJCAI 2020 | 2019 | 2018
 - ISWC 2020 | 2019 | 2018
 - KDD 2020 | [2019](./conference_publication/kdd2019/README.md) | [2018](./conference_publication/kdd2018/README.md)
