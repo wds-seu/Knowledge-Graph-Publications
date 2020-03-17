@@ -1,0 +1,10 @@
+# Integrating Local Context and Global Cohesiveness for Open Information Extraction
+* **author**: Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Ahmed El-Kishky, Jiawei Han
+* **abstract**: Extracting entities and their relations from text is an important task for understanding massive text corpora. Open information extraction (IE) systems mine relation tuples (i.e., entity arguments and a predicate string to describe their relation) from sentences. These relation tuples are not confined to a predefined schema for the relations of interests. However, current Open IE systems focus on modeling local context information in a sentence to extract relation tuples, while ignoring the fact that global statistics in a large corpus can be collectively leveraged to identify high-quality sentence-level extractions. In this paper, we propose a novel Open IE system, called ReMine, which integrates local context signals and global structural signals in a unified, distant-supervision framework. Leveraging facts from external knowledge bases as supervision, the new system can be applied to many different domains to facilitate sentence-level tuple extractions using corpus-level statistics. Our system operates by solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective. Learning the two subtasks jointly helps correct errors produced in each subtask so that they can mutually enhance each other. Experiments on two real-world corpora from different domains demonstrate the effectiveness, generality, and robustness of ReMine when compared to state-of-the-art open IE systems.
+* **keywords**: information extraction 
+* **interpretation**: [来源: 伯禹学堂](https://www.bilibili.com/video/av76581685)
+* **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3291030?download=true)
+* **code**: [link]( https://github.com/GentleZhu/ReMine)
+* **dataset**: NYT, Wiki-KBP, Twitter
+* **ppt/video**:
+* **curation**: Jiong Zhang 
