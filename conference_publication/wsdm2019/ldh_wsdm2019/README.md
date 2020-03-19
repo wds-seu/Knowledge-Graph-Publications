@@ -1,0 +1,10 @@
+# Representation Interpretation with Spatial Encoding and Multimodal Analytics
+* **author**: Ninghao Liu, Mengnan Du, Xia Hu
+* **abstract**: Representation learning models map data instances into a low-dimensional vector space, thus facilitating the deployment of subsequent models such as classification and clustering models, or the implementation of downstream applications such as recommendation and anomaly detection. However, the outcome of representation learning is difficult to be directly understood by users, since each dimension of the latent space may not have any specific meaning. Understanding representation learning could be beneficial to many applications. For example, in recommender systems, knowing why a user instance is mapped to a certain position in the latent space may unveil the user's interests and profile. In this paper, we propose an interpretation framework to understand and describe how representation vectors distribute in the latent space. Specifically, we design a coding scheme to transform representation instances into spatial codes to indicate their locations in the latent space. Following that, a multimodal autoencoder is built for generating the description of a representation instance given its spatial codes. The coding scheme enables indication of position with different granularity. The incorporation of autoencoder makes the framework capable of dealing with different types of data. Several metrics are designed to evaluate interpretation results. Experiments under various application scenarios and different representation learning models are conducted to demonstrate the flexibility and effectiveness of the proposed framework.
+* **keywords**: representation interpretation
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3290960?download=true)
+* **code**: [暂无]()
+* **dataset**: 20NG, Flickr, MovieLens
+* **ppt/video**:
+* **curation**: Jiong Zhang 

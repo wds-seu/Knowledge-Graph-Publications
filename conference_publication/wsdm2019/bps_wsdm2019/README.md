@@ -1,0 +1,10 @@
+# Knowledge Graph Enhanced Community Detection and Characterization
+* **author**: Shreyansh Bhatt, Swati Padhee, Amit Sheth, Keke Chen, Valerie Shalin, Derek Doran, Brandon Minnery
+* **abstract**: Recent studies show that by combining network topology and node attributes, we can better understand community structures in complex networks. However, existing algorithms do not explore "contextually" similar node attribute values, and therefore may miss communities defined with abstract concepts. We propose a community detection and characterization algorithm that incorporates the contextual information of node attributes described by multiple domain-specific hierarchical concept graphs. The core problem is to find the context that can best summarize the nodes in communities, while also discovering communities aligned with the context summarizing communities. We formulate the two intertwined problems, optimal community-context computation, and community discovery, with a coordinate-ascent based algorithm that iteratively updates the nodes' community label assignment with a community-context and computes the best context summarizing nodes of each community. Our unique contributions include (1) a composite metric on Informativeness and Purity criteria in searching for the best context summarizing nodes of a community; (2) a node similarity measure that incorporates the context-level similarity on multiple node attributes; and (3) an integrated algorithm that drives community structure discovery by appropriately weighing edges. Experimental results on public datasets show nearly 20 percent improvement on F-measure and Jaccard for discovering underlying community structure over the current state-of-the-art of community detection methods. Community structure characterization was also accurate to find appropriate community types for four datasets.
+* **keywords**: Community Detection
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3291031?download=true)
+* **code**: [暂无]()
+* **dataset**: G+ ego network, Twittr, DBLP, Reddit
+* **ppt/video**:
+* **curation**: Jiong Zhang 
