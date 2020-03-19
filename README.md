@@ -18,7 +18,7 @@ The repository contains links to conference publications on Knowledge Graph. The
 - KDD 2020 | [2019](./conference_publication/kdd2019/README.md) | [2018](./conference_publication/kdd2018/README.md)
 - NAACL 2020 | 2019 | 2018
 - SIGMOD 2020 | 2019 | 2018
-- WSDM 2020 | 2019(./conference_publication/wsdm2019/README.md) | 2018
+- WSDM 2020 | [2019](./conference_publication/wsdm2019/README.md) | 2018
 - WWW 2020 | [2019](./conference_publication/www2019/README.md)  | 2018
 
 
