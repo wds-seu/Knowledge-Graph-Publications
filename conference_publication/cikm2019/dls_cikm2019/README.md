@@ -1,0 +1,10 @@
+#MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.
+- **author**:Yang Deng, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei  
+- **abstract**:Knowledge Graph (KG) contains entities and the relations between entities. Due to its representation ability, KG has been successfully applied to support many medical/healthcare tasks. However, in the medical domain, knowledge holds under certain conditions. Such conditions for medical knowledge are crucial for decision-making in various medical applications, which is missing in existing medical KGs. In this paper, we aim to discovery medical knowledge conditions from texts to enrich KGs. Electronic Medical Records (EMRs) are systematized collection of clinical data and contain detailed information about patients, thus EMRs can be a good resource to discover medical knowledge conditions. Unfortunately, the amount of available EMRs is limited due to reasons such as regularization. Meanwhile, a large amount of medical question answering (QA) data is available, which can greatly help the studied task. However, the quality of medical QA data is quite diverse, which may degrade the quality of the discovered medical knowledge conditions. In the light of these challenges, we propose a new truth discovery method, MedTruth, for medical knowledge condition discovery, which incorporates prior source quality information into the source reliability estimation procedure, and also utilizes the knowledge triple information for trustworthy information computation. We conduct series of experiments on real-world medical datasets to demonstrate that the proposed method can discover meaningful and accurate conditions for medical knowledge by leveraging both EMR and QA data. Further, the proposed method is tested on synthetic datasets to validate its effectiveness under various scenarios.
+- **keywords**:knowledge discovery ,multi-source data, truth discovery
+- **interpretation**:
+- **pdf**: [acm](https://dl.acm.org/doi/10.1145/3357384.3357934)need to purchase
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo

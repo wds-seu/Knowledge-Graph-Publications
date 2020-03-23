@@ -1,0 +1,10 @@
+# EHR Coding with Multi-scale Feature Attention and Structured Knowledge Graph Propagation 
+- **author**: Xiancheng Xie, Yun Xiong, Philip S.Yu, Yangyong Zhu    
+- **abstract**: Assigning standard medical codes (e.g., ICD-9-CM) representing diagnoses or procedures to electronic health record (EHR) is an important task in the medical domain. However, automatic coding is difficult since the clinical note is composed of multiple long and heterogeneous textual narratives (e.g., discharge diagnosis, pathology reports, surgical procedure notes). Furthermore, the code label space is large and the label distribution is extremely unbalanced. The state-of-the-art methods mainly regard EHR coding as a multi-label text classification task and use shallow convolution neural network with fixed window size, which is incapable of learning variable n-gram features and the ontology structure between codes. In this paper, we leverage a densely connected convolutional neural network which is able to produce variable n-gram features for clinical note feature learning. We also incorporate a multi-scale feature attention to adaptively select multi-scale features since the most informative n-grams in clinical notes for each word can vary in length according to the neighborhood. Furthermore, we leverage graph convolutional neural network to capture both the hierarchical relationships among medical codes and the semantics of each code. Finally, We validate our method on the public dataset, and the evaluation results indicate that our method can significantly outperform other state-of-the-art models.
+- **keywords**:densely connected cnn， ehr coding， graph convolutional neural network， multi-scale feature attention
+- **interpretation**:
+- **pdf**: [acm](https://dl.acm.org/doi/10.1145/3357384.3357897)need to purchase
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo

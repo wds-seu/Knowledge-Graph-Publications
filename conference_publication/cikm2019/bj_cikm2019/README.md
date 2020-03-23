@@ -1,0 +1,10 @@
+#Online Schemaless Querying of Heterogeneous Open Knowledge Bases.
+- **author**:Nikita Bhutani, H. V. Jagadish  
+- **abstract**:Applications that depend on a deep understanding of natural language text have led to a renaissance of large knowledge bases (KBs). Some of these are curated manually and conform to an ontology. Many others, called open KBs, are derived automatically from unstructured text without any pre-specified ontology. These open KBs offer broad coverage of information but are far more heterogeneous than curated KBs, which themselves are more heterogeneous than traditional databases with a fixed schema. Due to the heterogeneity of information representation, querying KBs is a challenging task. Traditionally, query expansion is performed to cover all possible transformations and semantically equivalent structures. Such query expansion can be impractical for heterogeneous open KBs, particularly when complex queries lead to a combinatorial explosion of expansion possibilities. Furthermore, learning a query expansion model requires training examples, which is difficult to scale to diverse representations of facts in the KB. In this paper, we introduce an online schemaless querying method that does not require the query to exactly match the facts. Instead of exactly matching a query, it finds matches for individual query components and then identifies an answer by reasoning over the collective evidence. We devise an alignment-based algorithm for extracting answers based on textual and semantic similarity of query components and evidence fields. Thus, any representational mismatches between the query and evidence are handled online at query-time. Experiments show our approach is effective in handling multi-constraint queries.
+- **keywords**:heterogeneity, open knowledge bases ,schemaless querying
+- **interpretation**:
+- **pdf**: [acm](https://dl.acm.org/doi/10.1145/3357384.3357874)need to purchase
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo
