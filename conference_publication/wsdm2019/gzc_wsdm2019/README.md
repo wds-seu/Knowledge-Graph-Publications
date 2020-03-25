@@ -1,0 +1,10 @@
+# Relevance Search over Schema-Rich Knowledge Graphs
+* **author**: Yu Gu, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z. Pan, Yuzhong Qu
+* **abstract**: Relevance search over a knowledge graph (KG) has gained much research attention. Given a query entity in a KG, the problem is to find its most relevant entities. However, the relevance function is hidden and dynamic. Different users for different queries may consider relevance from different angles of semantics. The ambiguity in a query is more noticeable in the presence of thousands of types of entities and relations in a schema-rich KG, which has challenged the effectiveness and scalability of existing methods. To meet the challenge, our approach called RelSUE requests a user to provide a small number of answer entities as examples, and then automatically learns the most likely relevance function from these examples. Specifically, we assume the intent of a query can be characterized by a set of meta-paths at the schema level. RelSUE searches a KG for diversified significant meta-paths that best characterize the relevance of the user-provided examples to the query entity. It reduces the large search space of a schema-rich KG using distance and degree-based heuristics, and performs reasoning to deduplicate meta-paths that represent equivalent query-specific semantics. Finally, a linear model is learned to predict meta-path based relevance. Extensive experiments demonstrate that RelSUE outperforms several state-of-the-art methods.
+* **keywords**: relevance search
+* **interpretation**: [来源: 知乎](https://zhuanlan.zhihu.com/p/67626535)
+* **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3290970?download=true)
+* **code**: [暂无]()
+* **dataset**: DBpedia, YAGO
+* **ppt/video**:
+* **curation**: Jiong Zhang 
