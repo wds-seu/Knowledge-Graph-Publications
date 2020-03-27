@@ -6,6 +6,7 @@
 * [Embedding of Hierarchically Typed Knowledge Bases 暂未补充论文解读](./zkw_aaai2018/README.md)
 * [Incorporating GAN for Negative Sampling in Knowledge Representation Learning 暂未补充论文解读](./wlp_aaai2018/README.md)
 * [Neural Knowledge Acquisition via Mutual Attention Between Knowledge Graph and Text 暂未补充论文解读](./hls_aaai2018/README.md)
+* [Question Answering as Global Reasoning Over Semantic Abstractions](./kks_aaai2018/README.md)
 ## Cognitive Systems
 * [Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph](./avm_aaai2018/README.md)
 ## Machine Learning Applications
@@ -21,3 +22,5 @@
 * [On Multi-Relational Link Prediction With Bilinear Models 暂未补充论文解读](./wgl_aaai2018/README.md)
 ## NLP and Machine Learning
 * [Large Scaled Relation Extraction With Reinforcement Learning](./zhl_aaai2018/README.md)
+* [Knowledge Enhanced Hybrid Neural Network for Text Matching](./wwx_aaai2018/README.md)
+* [Knowledge-based Word Sense Disambiguation using Topic Models](./cs_aaai2018/README.md)
