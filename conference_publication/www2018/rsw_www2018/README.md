@@ -1,0 +1,10 @@
+# An Attention Factor Graph Model for Tweet Entity Linking  
+- **author**: Chenwei Ran, Wei Shen, Jianyong Wang  
+- **abstract**: The rapid expansion of Twitter has attracted worldwide attention. With more than 500 million tweets posted per day, Twitter becomes an invaluable information and knowledge source. Many Twitter related tasks have been studied, such as event extraction, hashtag recommendation, and topic detection. A critical step in understanding and mining information from Twitter is to disambiguate entities in tweets, i.e., tweet entity linking. It is a challenging task because tweets are short, noisy, and fresh. Many tweet-specific signals have been found to solve the tweet entity linking problem, such as user interest, temporal popularity, location information and so on. However, two common weaknesses exist in previous work. First, most proposed models are not flexible and extendable to fit new signals. Second, their scalability is not good enough to handle the large-scale social network like Twitter. In this work, we formalize the tweet entity linking problem into a factor graph model which has shown its effectiveness and efficiency in many other applications. We also propose selective attention over entities to increase the scalability of our model, which brings linear complexity. To adopt the attention mechanism in the factor graph, we propose a new type of nodes called pseudo-variable nodes to solve the asymmetry attention problem caused by the undirected characteristic of the factor graph. We evaluated our model on two different manually annotated tweet datasets. The experimental results show that our model achieves better performance in terms of both effectiveness and efficiency compared with the state-of-the-art approaches.
+- **keywords**: Twitter, knowledge graph, entity linking, factor graph model, attention-based model
+- **interpretation**: 
+- **pdf**: [paper](https://dl.acm.org/ft_gateway.cfm?id=3186012&ftid=1959283&dwn=1)
+- **code**:
+- **dataset**: Wikipedia, Tweet
+- **ppt/video**:
+- **curator**: Xiaoyu Shang 
