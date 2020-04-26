@@ -12,7 +12,7 @@ The repository contains links to conference publications on Knowledge Graph. The
 - ICDE 2020 | 2019 | 2018
 - ICDM 2020 | 2019 | [2018](./conference_publication/icdm2018/README.md)
 - ICLR 2020 | [2019](./conference_publication/iclr2019/README.md) | [2018](./conference_publication/iclr2018/README.md)
-- ICML 2020 | [2019](./conference_publication/icml2019/README.m)) | [2018](./conference_publication/icml2018/README.md)
+- ICML 2020 | [2019](./conference_publication/icml2019/README.m) | [2018](./conference_publication/icml2018/README.md)
 - IJCAI 2020 | [2019](./conference_publication/ijcai2019/README.md) | [2018](./conference_publication/ijcai2018/README.md)
 - ISWC 2020 | [2019](./conference_publication/iswc2019/README.md) | 2018
 - KDD 2020 | [2019](./conference_publication/kdd2019/README.md) | [2018](./conference_publication/kdd2018/README.md)
