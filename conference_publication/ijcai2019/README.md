@@ -3,7 +3,7 @@
 * [Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/zzw_ijcai2019/README.md)
 * [Anytime Bottom-Up Rule Learning for Knowledge Graph Completion](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/mcr_ijcai2019/README.md)
 * [Data Poisoning Attack against Knowledge Graph Embedding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/zzg_ijcai2019/README.md)
-* [Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ifcai2019/vkp_ijcai2019/README.md)
+* [Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/vkp_ijcai2019/README.md)
 * [Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/wlf_ijcai2019/README.md)
 * [Multi-view Knowledge Graph Embedding for Entity Alignment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/zsh_ijcai2019/README.md)
 * [Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/xg_ijcai2019/README.md)
