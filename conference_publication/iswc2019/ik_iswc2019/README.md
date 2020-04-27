@@ -4,7 +4,7 @@
 - **keywords**:  
 - **interpretation**: []()
 - **pdf**: [paper](https://link.springer.com/chapter/10.1007/978-3-030-30793-6_17)
-- **code**: [code](https://github.com/ilkcan/skytpf）
+- **code**: [code](https://github.com/ilkcan/skytpf)
 - **dataset**:   ACorr，Corr，Ind
 - **ppt/video**:
 - **curator**: Mengya Ji
