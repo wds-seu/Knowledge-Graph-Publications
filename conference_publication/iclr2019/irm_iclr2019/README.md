@@ -1,0 +1,10 @@
+# Neural Variational Inference For Embedding Knowledge Graphs
+* **author**：Alexander I. Cowen-Rivers, Pasquale Minervini
+* **abstract**: Recent advances in Neural Variational Inference allowed for a renaissance in latent variable models in a variety of domains involving high-dimensional data. In this paper, we introduce two generic Variational Inference frameworks for generative models of Knowledge Graphs; Latent Fact Model and Latent Information Model.  While traditional variational methods derive an analytical approximation for the intractable distribution over the latent variables, here we construct an inference network conditioned on the symbolic representation of entities and relation types in the Knowledge Graph, to provide the variational distributions. The new framework can create models able to discover underlying probabilistic semantics for the symbolic representation by utilising parameterisable distributions which permit training by back-propagation in the context of neural variational inference, resulting in a highly-scalable method. Under a Bernoulli sampling framework, we provide an alternative justification for commonly used techniques in large-scale stochastic variational inference, which drastically reduces training time at a cost of an additional approximation to the variational lower bound.  The generative frameworks are flexible enough to allow training under any prior distribution that permits a re-parametrisation trick, as well as under any scoring function that permits maximum likelihood estimation of the parameters. Experiment results display the potential and efficiency of this framework by improving upon multiple benchmarks with Gaussian prior representations. Code publicly available on Github.
+* **keywords**: Statistical Relational Learning, Knowledge Graphs, Knowledge Extraction, Latent Feature Models, Variational Inference.
+* **interpretation**: 
+* **pdf**:  [link](https://openreview.net/pdf?id=HJM4rsRqFX)
+* **code**: 
+* **dataset**: WN18, WN18 RR, FB15K-257 
+* **ppt/video**: 
+* **curator**: Chang Liu
