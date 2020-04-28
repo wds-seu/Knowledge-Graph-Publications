@@ -11,3 +11,7 @@
 * [Spring-Electrical Models For Link Prediction](./ksa_wsdm2019/README.md)
 ## Text Understanding
 * [Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction](./qoh_wsdm2019/README.md)
+* [TopExNet: Entity-Centric Network Topic Exploration in News Streams](./sag_wsdm2019/README.md)
+* [Visualizing Graph Differences from Social Media Streams](./skl_wsdm2019/README.md)
+## Domain Transfer and Representation Learning
+* [Learning to Transform, Combine, and Reason in Open-Domain Question Answering](./dak_wsdm2019/README.md)
