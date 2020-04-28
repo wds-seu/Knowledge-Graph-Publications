@@ -24,4 +24,4 @@
 * [Data Poisoning Attack against Knowledge Graph Embedding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/zzg_ijcai2019/README.md)
 * [Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/vkp_ijcai2019/README.md)
 * [Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/wlf_ijcai2019/README.md)
-* [Multi-view Knowledge Graph Embedding for Entity Alignment](
+* [Multi-view Knowledge Graph Embedding for Entity Alignment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2019/zsh_ijcai2019/README.md)
