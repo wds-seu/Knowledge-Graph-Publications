@@ -1,0 +1,10 @@
+#Re-evaluating Embedding-Based Knowledge Graph Completion Methods
+- **author**:Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li  
+- **abstract**:Incompleteness of large knowledge graphs (KG) has motivated many researchers to propose methods to automatically find missing edges in KGs. A promising approach for KG completion (link prediction) is embedding a KG into a continuous vector space. There are different methods in the literature that learn a continuous representation of KG (latent features of KG). The benchmark dataset FB15k has been widely employed to evaluate these methods. However, It has been noted that FB15k contains many pairs of edges in which a pair represents the same relationship in reverse directions. Therefore, the inverse of numerous test triples occurs in the training set. To address this problem, FB15k-237, a subset of FB15k, was created by removing those inverse-duplicate relations to form a more challenging, realistic dataset. There is not any study that investigates how the aforementioned bias in this widely used benchmark dataset affects the results of embedding-based knowledge graph completion methods and whether their promising results are largely due to the bias. Motivated by this question, we conducted extensive experiments and report the link prediction results on FB15K and FB15k-237 using several embedding-based methods. We compare the results of different methods to see how their performances change in absence of inverse relations. Our experiment results demonstrate that the performance of embedding models in link prediction task diminishes tremendously when the inverse relationships do not exist anymore.
+- **keywords**:knowledge graph completion; link prediction; knowledge graphembedding
+- **interpretation**:
+- **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3269266)
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo

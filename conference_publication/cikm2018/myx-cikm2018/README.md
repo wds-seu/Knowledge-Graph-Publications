@@ -1,0 +1,10 @@
+#KAME: Knowledge-based Attention Model for Diagnosis Prediction in Healthcare
+- **author**:Fenglong Ma, Quanzeng You, Houping Xiao, Radha Chitta, Jing Zhou, Jing Gao  
+- **abstract**:The goal of diagnosis prediction task is to predict the future health information of patients from their historical Electronic Healthcare Records (EHR). The most important and challenging problem of diagnosis prediction is to design an accurate, robust and interpretable predictive model. Existing work solves this problem by employing recurrent neural networks (RNNs) with attention mechanisms, but these approaches suffer from the data sufficiency problem. To obtain good performance with insufficient data, graph-based attention models are proposed. However, when the training data are sufficient, they do not offer any improvement in performance compared with ordinary attention-based models. To address these issues, we propose KAME, an end-to-end, accurate and robust model for predicting patients' future health information. KAME not only learns reasonable embeddings for nodes in the knowledge graph, but also exploits general knowledge to improve the prediction accuracy with the proposed knowledge attention mechanism. With the learned attention weights, KAME allows us to interpret the importance of each piece of knowledge in the graph. Experimental results on three real world datasets show that the proposed KAME significantly improves the prediction performance compared with the state-of-the-art approaches, guarantees the robustness with both sufficient and insufficient data, and learns interpretable disease representations.
+- **keywords**:Healthcare informatics; medical knowledge graph; knowledge at-tention mechanism
+- **interpretation**:
+- **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271701)
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo

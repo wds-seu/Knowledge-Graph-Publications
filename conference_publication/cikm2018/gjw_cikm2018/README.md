@@ -1,0 +1,10 @@
+#Shared Embedding Based Neural Networks for Knowledge Graph Completion
+- **author**:Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng 
+- **abstract**:Knowledge Graphs (KGs) have facilitated many real-world applications (e.g., vertical search and intelligent question answering). However, they are usually incomplete, which affects the performance of such KG based applications. To alleviate this problem, a number of Knowledge Graph Completion (KGC) methods have been developed to predict those implicit triples. Tensor/matrix based methods and translation based methods have attracted great attention for a long time. Recently, neural network has been introduced into KGC due to its extensive superiority in many fields (e.g., natural language processing and computer vision), and achieves promising results. In this paper, we propose a Shared Embedding based Neural Network (SENN) model for KGC. It integrates the prediction tasks of head entities, relations and tail entities into a neural network based framework with shared embeddings of entities and relations, while explicitly considering the differences among these prediction tasks. Moreover, we propose an adaptively weighted loss mechanism, which dynamically adjusts the weights of losses according to the mapping properties of relations, and the prediction tasks. Since relation prediction usually performs better than head and tail entity predictions, we further extend SENN to SENN+ by employing it to assist head and tail entity predictions. Experiments on benchmark datasets validate the effectiveness and merits of the proposed SENN and SENN+ methods. The shared embeddings and the adaptively weighted loss mechanism are also testified to be effective.
+- **keywords**: Knowledge graph completion; shared embedding; neural network
+- **interpretation**:
+- **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271704)
+- **code**: 
+- **dataset**: 
+- **ppt/video**:
+- **curator**: Wu Bo
