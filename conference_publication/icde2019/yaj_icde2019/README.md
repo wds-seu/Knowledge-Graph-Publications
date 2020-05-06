@@ -1,0 +1,10 @@
+# An Efficient Parallel Keyword Search Engine on Knowledge Graphs
+* **author**: Yueji Yang; Divykant Agrawal; H. V. Jagadish; Anthony K. H. Tung; Shuang Wu
+* **abstract**: Keyword search has recently become popular as a way to query relational databases, and even graphs, since it allows users to issue queries without learning a complex query language and data schema. Evaluating a keyword query is usually significantly more expensive than evaluating an equivalent selection query, since the query specification is less complete, and many alternative answers have to be considered by the system, requiring considerable effort to generate and compare. Current interest in big data and AI are putting even more demands on the efficiency of keyword search. In particular, searching of knowledge graphs is gaining popularity. As knowledge graphs often comprise many millions of nodes and edges, performing real-time search on graphs of this size is an open challenge. In this paper, we attempt to address this need by leveraging advances in hardware technologies, e.g. multi-core CPUs and GPUs. Specifically, we implement a parallel keyword search engine for Knowledge Bases (KB). To be able to do so, and to exploit parallelism, we devise a new approach to keyword search, based on a concept we introduce called Central Graph. Unlike the Group Steiner Tree (GST) model, widely used for keyword search, our approach can naturally work in parallel and still return compact answer graphs with rich information. Our approach can work in either multi-core CPUs or a single GPU. In particular, our GPU implementation is two to three orders of magnitudes faster than state-of-the-art keyword search method. We conduct extensive experiments to show that our approach is both efficient and effective.
+* **keywords**: Keyword search, Steiner trees, Parallel search
+* **interpretation**: [来源: 知乎](https://zhuanlan.zhihu.com/p/100447771)
+* **pdf**: [link](https://ieeexplore.ieee.org/document/8731500/)
+* **code**: [link]()
+* **dataset**:
+* **ppt/video**:
+* **curation**: Jiong Zhang 
