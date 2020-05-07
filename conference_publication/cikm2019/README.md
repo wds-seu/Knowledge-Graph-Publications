@@ -1,6 +1,6 @@
 #Publications in CIKM2019 Groupd by Tracks
 
-* [Online Schemaless Querying of Heterogeneous Open Knowledge Bases.](./bsk_cikm2019/README.md)
+* [Online Schemaless Querying of Heterogeneous Open Knowledge Bases.](./bj_cikm2019/README.md)
 
 * [Learning to Answer Complex Questions over Knowledge Bases with Query Composition.](./bzj_cikm2019/README.md)
 

@@ -4,7 +4,7 @@
 
 * [GYANI: An Indexing Infrastructure for Knowledge-Centric Tasks](./dk_cikm2018/README.md)
 
-* [Re-evaluating Embedding-Based Knowledge Graph Completion Methods](./fgn_cikm2018/README.md)
+* [Re-evaluating Embedding-Based Knowledge Graph Completion Methods](./fgh_cikm2018/README.md)
 
 * [Shared Embedding Based Neural Networks for Knowledge Graph Completion](./gjw_cikm2018/README.md)
 
