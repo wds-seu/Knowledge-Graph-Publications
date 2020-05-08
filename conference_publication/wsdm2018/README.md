@@ -1,1 +1,10 @@
 # Publications in WSDM2018 Groupd by Tracks
+* [VISIR: Visual and Semantic Image Label Refinement](./ctf_wsdm2018/README.md)
+* [Fast and Scalable Distributed Loopy Belief Propagation on Real-World Graphs](./jyk_wsdm2018/README.md)
+* [Short-Term Satisfaction and Long-Term Coverage: Understanding How Users Tolerate Algorithmic Exploration](./sbd_wsdm2018/README.md)
+* [Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction](./slw_wsdm2018/README.md)
+* [Indirect Supervision for Relation Extraction using Question-Answer Pairs](./wrx_wsdm2018/README.md)
+* [SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction](./wzh_wsdm2018/README.md)
+* [Review-Aware Answer Prediction for Product-Related Questions Incorporating Aspects](./ym_wsdm2018/README.md)
+* [Modelling Domain Relationships for Transfer Learning on Chatbot-based Question Answering Systems](./yqj_wsdm2018/README.md)
+* [Discrete Deep Learning for Fast Content-Aware Recommendation](./zyh_wsdm2018/README.md)
