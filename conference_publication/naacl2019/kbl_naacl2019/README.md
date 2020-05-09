@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: [OpenKG]( https://mp.weixin.qq.com/s/xJ05ctlYhyVy__6CaOm4WQ)
 * **pdf**: [paper](https://www.aclweb.org/anthology/N19-1238.pdf)
-* **code**: [github](https://github.com/ rikdz/GraphWriter)
+* **code**: [github](https://github.com/rikdz/GraphWriter)
 * **dataset**: AGENDA
 * **ppt/video**: 
 * **curation**: Xiaoyu Shang
