@@ -1,4 +1,4 @@
-# Publications in KDD2019 Groupd by Tracks
+# Publications in SIGMOD2018 Groupd by Tracks
 
 ## Knowledge
 
