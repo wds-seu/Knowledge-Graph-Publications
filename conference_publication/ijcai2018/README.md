@@ -2,3 +2,4 @@
 * [Deep Reasoning with Knowledge Graph for Social Relationship Understanding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ztj_ijcai2018/README.md)
 * [Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ctw_ijcai2018/README.md)
 * [Efficient Pruning of Large Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ffp_ijcai2018/README.md)
+* [Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ffq_ijcai2018/README.md)
