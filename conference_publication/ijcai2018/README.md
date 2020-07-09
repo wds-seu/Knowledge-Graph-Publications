@@ -9,3 +9,4 @@
 * [Attributed Description Logics: Reasoning on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/kmo_ijcai2018/README.md)
 * [Completeness-aware Rule Learning from Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/tsr_ijcai2018/README.md)
 * [Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/sjc_ijcai2018/README.md)
+* [Joint Extraction of Entities and Relations Based on a Novel Graph Scheme](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/wzc_ijcai2018/README.md)
