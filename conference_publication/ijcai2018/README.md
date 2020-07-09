@@ -8,3 +8,4 @@
 * [Bootstrapping Entity Alignment with Knowledge Graph Embedding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/shz_ijcai2018/README.md)
 * [Attributed Description Logics: Reasoning on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/kmo_ijcai2018/README.md)
 * [Completeness-aware Rule Learning from Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/tsr_ijcai2018/README.md)
+* [Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/sjc_ijcai2018/README.md)
