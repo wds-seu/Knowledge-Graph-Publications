@@ -6,3 +6,4 @@
 * [Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/qfz_ijcai2018/README.md)
 * [Joint Posterior Revision of NLP Annotations via Ontological Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/rc_ijcai2018/README.md)
 * [Bootstrapping Entity Alignment with Knowledge Graph Embedding](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/shz_ijcai2018/README.md)
+* [Attributed Description Logics: Reasoning on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/kmo_ijcai2018/README.md)
