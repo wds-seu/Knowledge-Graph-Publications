@@ -4,3 +4,4 @@
 * [Efficient Pruning of Large Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ffp_ijcai2018/README.md)
 * [Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/ffq_ijcai2018/README.md)
 * [Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/qfz_ijcai2018/README.md)
+* [Joint Posterior Revision of NLP Annotations via Ontological Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/ijcai2018/rc_ijcai2018/README.md)
