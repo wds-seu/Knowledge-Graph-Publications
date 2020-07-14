@@ -1,0 +1,11 @@
+# Robust Discovery of Positive and Negative Rules in Knowledge Bases
+
+- **author**: Stefano Ortona ; Venkata Vamsikrishna Meduri ; Paolo Papotti
+- **abstract**: We present RUDIK, a system for the discovery of declarative rules over knowledge-bases (KBs). RUDIK discovers rules that express positive relationships between entities, such as "if two persons have the same parent, they are siblings", and negative rules, i.e., patterns that identify contradictions in the data, such as "if two persons are married, one cannot be the child of the other". While the former class infers new facts in the KB, the latter class is crucial for other tasks, such as detecting erroneous triples in data cleaning, or the creation of negative examples to bootstrap learning algorithms. The system is designed to: (i) enlarge the expressive power of the rule language to obtain complex rules and wide coverage of the facts in the KB, (ii) discover approximate rules (soft constraints) to be robust to errors and incompleteness in the KB, (iii) use disk-based algorithms, effectively enabling rule mining in commodity machines. In contrast with traditional ranking of all rules based on a measure of support, we propose an approach to identify the subset of useful rules to be exposed to the user. We model the mining process as an incremental graph exploration problem and prove that our search strategy has guarantees on the optimality of the results. We have conducted extensive experiments using real-world KBs to show that RUDIK outperforms previous proposals in terms of efficiency and that it discovers more effective rules for the application at hand.
+- **keywords**:
+- **interpretation**:
+- **pdf**: [pdf](https://www.researchgate.net/profile/Paolo_Papotti/publication/327791452_Robust_Discovery_of_Positive_and_Negative_Rules_in_Knowledge-Bases/links/5ba49b4e92851ca9ed1a2a70/Robust-Discovery-of-Positive-and-Negative-Rules-in-Knowledge-Bases.pdf)
+- **code**: [code](https://github.com/stefano-ortona/rudik)
+- **dataset**: DBPEDIA, YAGO 3, WIKIDATA
+- **ppt/video**:
+- **curator**: Yawen Dai

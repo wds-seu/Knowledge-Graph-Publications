@@ -1,0 +1,11 @@
+# Predicting Named Entity Location Using Twitter
+
+- **author**: Wei Shen ; Yinan Liu ; Jianyong Wang
+- **abstract**: A knowledge base contains a set of concepts, entities, attributes, and relations. Knowledge bases are increasingly critical to a wide variety of applications in both industry and academia. Yet despite all that, knowledge bases are greatly incomplete. As the world evolves, new entities are generated. Enriching existing knowledge bases with new entities and new location attribute values for them becomes more and more important. Twitter is one of the most popular micro-blogging platforms. Named entities are mentioned frequently in the huge collection of tweets which contain abundant geographical location knowledge. Given a named entity and a set of tweets where the entity appears, we are interested in predicting the entity city-level location using the knowledge embedded in tweets. This task is helpful for many applications such as knowledge base enrichment, tweet location prediction, and entity search. In this paper we propose NELPT, the first unsupervised framework for Named Entity city-level Location Prediction by leveraging the geographical location knowledge from Twitter. This framework leverages a Linear Neural Network model as the predictive model combining two categories of information: (1) local count information; (2) global distributional information. A learning algorithm based on the expectation-maximization (EM) method is proposed to automatically learn the parameters of the Linear Neural Network predictive model without requiring any training data. The experimental results on a real world Twitter data set show that our framework significantly outperforms the baselines in terms of accuracy, and scales very well.
+- **keywords**:
+- **interpretation**:
+- **pdf**: [pdf](https://www.researchgate.net/publication/328525362_Predicting_Named_Entity_Location_Using_Twitter)
+- **code**:
+- **dataset**: a real world Twitter data set
+- **ppt/video**:
+- **curator**: Yawen Dai
