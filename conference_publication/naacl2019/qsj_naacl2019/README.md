@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: [OpenKG]( https://mp.weixin.qq.com/s/H-UZ9-tDCXfcREff6DWp6w )
 * **pdf**: [paper](https://www.aclweb.org/anthology/N19-1082.pdf)
-* **code**: [github](https://github. com/thomas0809/GraphIE)
+* **code**: [github](https://github.com/thomas0809/GraphIE)
 * **dataset**: CoNLL03, CHEMDNER
 * **ppt/video**: 
 * **curation**: Xiaoyu Shang
