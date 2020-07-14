@@ -16,7 +16,7 @@ The repository contains links to conference publications on Knowledge Graph. The
 - IJCAI 2020 | [2019](./conference_publication/ijcai2019/README.md) | [2018](./conference_publication/ijcai2018/README.md)
 - ISWC 2020 | [2019](./conference_publication/iswc2019/README.md) | 2018
 - KDD 2020 | [2019](./conference_publication/kdd2019/README.md) | [2018](./conference_publication/kdd2018/README.md)
-- NAACL 2020 | [2019](./conference_publication/naacl2019/README.md) | 2018(./conference_publication/naacl2018/README.md)
+- NAACL 2020 | [2019](./conference_publication/naacl2019/README.md) | [2018](./conference_publication/naacl2018/README.md)
 - SIGMOD 2020 | [2019](./conference_publication/sigmod2019/README.md) | [2018](./conference_publication/sigmod2018/README.md)
 - WSDM 2020 | [2019](./conference_publication/wsdm2019/README.md) | [2018](./conference_publication/wsdm2018/README.md)
 - WWW 2020 | [2019](./conference_publication/www2019/README.md)  | [2018](./conference_publication/www2018/README.md) 
