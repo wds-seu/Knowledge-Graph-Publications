@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: 
 * **pdf**: [pdf](https://www.aclweb.org/anthology/N19-1332.pdf)
-* **code**: [github](https://github.com/ HKUST-KnowComp/RE-RegDVAE)
+* **code**: [github](https://github.com/HKUST-KnowComp/RE-RegDVAE)
 * **dataset**:  NYT122, NYT71, NYT27 
 * **ppt/video**: 
 * **curation**: Xiaoyu Shang
