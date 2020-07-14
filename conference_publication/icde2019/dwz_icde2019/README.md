@@ -1,0 +1,10 @@
+# Unsupervised String Transformation Learning for Entity Consolidation
+* **author**: Dong Deng, Wenbo Tao, Ziawasch Abedjan
+* **abstract**: Data integration has been a long-standing challenge in data management with many applications. A key step in data integration is entity consolidation. It takes a collection of clusters of duplicate records as input and produces a single "golden record" for each cluster, which contains the canonical value for each attribute. Truth discovery and data fusion methods as well as Master Data Management (MDM) systems can be used for entity consolidation. However, to achieve better results, the variant values (i.e., values that are logically the same with different formats) in the clusters need to be consolidated before applying these methods. For this purpose, we propose a data-driven method to standardize the variant values based on two observations: (1) the variant values usually can be transformed to the same representation (e.g., "Mary Lee" and "Lee, Mary") and (2) the same transformation often appears repeatedly across different clusters (e.g., transpose the first and last name). Our approach first uses an unsupervised method to generate groups of value pairs that can be transformed in the same way. Then the groups are presented to a human for verification and the approved ones are used to standardize the data. In a real-world dataset with 17,497 records, our method achieved 75% recall and 99.5% precision in standardizing variant values by asking a human 100 yes/no questions, which completely outperformed a state of the art data wrangling tool.
+* **keywords**: entity consolidation
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://ieeexplore.ieee.org/document/8731550)
+* **code**: 
+* **dataset**: [AuthorList](http://www.lunadong.com/fusionDataSets.htm), [JournalTitle](https://rayyan.qcri.org/), [Address](6https://catalog.data.gov/)
+* **ppt/video**:
+* **curation**: Jiong Zhang 

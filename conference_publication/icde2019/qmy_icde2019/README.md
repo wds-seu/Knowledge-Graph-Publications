@@ -1,0 +1,10 @@
+# Answering Why-Questions for Subgraph Queries in Multi-attributed Graphs
+* **author**: Qi Song ; Mohammad Hossein Namaki ; Yinghui Wu
+* **abstract**: Subgraph queries have been routinely used to search graphs e.g., social networks and knowledge bases. With little knowledge of underlying data, users often need to rewrite queries multiple times to reach desirable answers. Why-questions are studied to explain missing (as “Why-not” questions) or unexpected answers (as “Why” questions). This paper makes a first step to answer why-questions for subgraph queries in attributed graphs. (1) We approach query rewriting and construct query rewrites, which modify original subgraph queries to identify desired entities that are specified by Why questions. We introduce measures that characterize good query rewrites by incorporating both query editing cost and answer closeness. (2) While computing optimal query rewrite is intractable for Why-questions, we develop feasible algorithms, from exact algorithms to heuristics, and provide query rewrites with (near) optimality guarantees whenever possible, for both Why and Why-not questions. These algorithms dynamically select “picky” operators that ensure to change (estimated) answers closer to desired ones, and incur cost determined by the size of query results and questions only. We also show that these algorithms readily extend to other Why-questions such as Why-empty and Why-so-many. Using real-world graphs, we experimentally verify that our algorithms are effective and feasible for large graphs. Our case study also verifies their application in e.g., knowledge exploration.
+* **keywords**: Subgraph Queries，why-questions, multiattributed graphs
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://ieeexplore.ieee.org/document/8731562)
+* **code**: 
+* **dataset**: DBpedia, Yago, Freebase, Pokec, IMDb
+* **ppt/video**:
+* **curation**: Jiong Zhang 
