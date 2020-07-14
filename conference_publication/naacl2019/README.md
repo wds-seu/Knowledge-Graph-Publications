@@ -1,4 +1,4 @@
-# Publications
+# Publications in NAACL2019 about Knowledge Graph
 - [Hop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](./ccc_naacl2019/README.md)  
 - [OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference](./zml_naacl2019/README.md)  
 - [Graph Pattern Entity Ranking Model for Knowledge Graph Completion](./ei_naacl2019/README.md)
