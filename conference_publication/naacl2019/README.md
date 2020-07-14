@@ -1,5 +1,5 @@
 # Publications in NAACL2019 about Knowledge Graph
-- [Hop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](./ccc_naacl2019/README.md)  
+- [UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](./ccc_naacl2019/README.md)  
 - [OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference](./zml_naacl2019/README.md)  
 - [Graph Pattern Entity Ranking Model for Knowledge Graph Completion](./ei_naacl2019/README.md)
 - [Text Generation from Knowledge Graphs with Graph Transformers](./kbl_naacl2019/README.md)  
@@ -9,3 +9,4 @@
 - [GraphIE: A Graph-Based Framework for Information Extraction](./qsj_naacl2019/README.md)
 - [Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction](./xb_naacl2019/README.md)
 - [Relation Discovery with Out-of-Relation Knowledge Base as Supervision](./llz_naacl2019/README.md)
+- [A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization](./nvn_naacl2019/README.md)
