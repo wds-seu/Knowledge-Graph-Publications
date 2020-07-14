@@ -7,3 +7,5 @@
 - [Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](./zds_naacl2019/README.md)
 - [CNM: An Interpretable Complex-valued Network for Matching](./lwm_naacl2019/README.md)
 - [GraphIE: A Graph-Based Framework for Information Extraction](./qsj_naacl2019/README.md)
+- [Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction](./xb_naacl2019/README.md)
+- [Relation Discovery with Out-of-Relation Knowledge Base as Supervision](./llz_naacl2019/README.md)
