@@ -4,7 +4,7 @@
 - **keywords**: 
 - **interpretation**: []()
 - **pdf**: [paper](https://proceedings.icml.cc/static/paper_files/icml/2020/143-Paper.pdf)
-- **code**: [code]()
+- **code**: 
 - **dataset**:  CIFAR-100
 - **ppt/video**:
 - **curator**: Mengya Ji
