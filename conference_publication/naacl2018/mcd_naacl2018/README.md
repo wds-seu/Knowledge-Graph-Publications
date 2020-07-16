@@ -6,5 +6,5 @@
 * **pdf**: [paper](https://www.aclweb.org/anthology/N18-1029.pdf)
 * **code**: 
 * **dataset**: News20, SNLI, DBPedia
-* **ppt/video**: [viedeo](http://vimeo.com/276416920)
+* **ppt/video**: [video](http://vimeo.com/276416920)
 * **curation**: Xiaoyu Shang
