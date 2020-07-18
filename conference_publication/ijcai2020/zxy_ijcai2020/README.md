@@ -1,0 +1,10 @@
+# MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
+* **author**: Zhichao Huang, Xutao Li, Yunming Ye, Michael K. Ng
+* **abstract**: Graph Convolutional Networks (GCNs) have been extensively studied in recent years. Most of existing GCN approaches are designed for the homogenous graphs with a single type of relation. However, heterogeneous graphs of multiple types of relations are also ubiquitous and there is a lack of methodologies to tackle such graphs. Some previous studies address the issue by performing conventional GCN on each single relation and then blending their results. However, as the convolutional kernels neglect the correlations across relations, the strategy is sub-optimal. In this paper, we propose the Multi-Relational Graph Convolutional Network (MR-GCN) framework by developing a novel convolution operator on multi-relational graphs. In particular, our multi-dimension convolution operator extends the graph spectral analysis into the eigen-decomposition of a Laplacian tensor. And the eigen-decomposition is formulated with a generalized tensor product, which can correspond to any unitary transform instead of limited merely to Fourier transform. We conduct comprehensive experiments on four real-world multi-relational graphs to solve the semi-supervised node classification task, and the results show the superiority of MR-GCN against the state-of-the-art competitors.
+* **keywords**: Semi Structured Data, Convolutional networks, Tensor and Matrix Methods, Classification, Semi-Supervised Learning
+* **interpretation**: [来源: 专知](https://www.zhuanzhi.ai/vip/93cb45bc861b74fc8d3b064d33c42f8f)
+* **pdf**: [link](https://www.ijcai.org/Proceedings/2020/175)
+* **code**: 
+* **dataset**: [ACM](https://drive.google.com/file/d/1qOZ3QjqWMIIvWjzrIdRe3EA4iKzPi6S5/view), [IMDB](https://drive.google.com/file/d/1qOZ3QjqWMIIvWjzrIdRe3EA4iKzPi6S5/view), [Amazon](http://deepyeti.ucsd.edu/jianmo/amazon/index.html), [Reuters](http://lig-membres.imag.fr/grimal/data.html)
+* **ppt/video**:
+* **curation**: Jiong Zhang 

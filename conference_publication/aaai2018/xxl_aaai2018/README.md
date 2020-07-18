@@ -5,6 +5,6 @@
 * **interpretation**: [来源: PaperWeekly](https://www.sohu.com/a/224051601_500659)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16577/16028)
 * **code**: [link]( https://github.com/thunlp/CKRL)
-* **dataset**:
+* **dataset**: FB15K
 * **ppt/video**:
 * **curation**: Jiong Zhang 

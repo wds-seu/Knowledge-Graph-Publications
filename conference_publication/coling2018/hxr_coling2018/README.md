@@ -4,7 +4,7 @@
 * **keywords**: Knowledge Acquisition, image matching
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1015.pdf)
-* **code**: [link](https://github.com/Tsinghua- PhD/APE)
-* **dataset**: dbpedia
+* **code**: [link](https://github.com/HuiBinR/VSRB)
+* **dataset**: ACE-R2
 * **ppt/video**:
 * **curation**: Jiong Zhang 

@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16900/16722)
 * **code**: [link](http://dws.informatik.uni-mannheim.de/en/resources/software/tf/)
-* **dataset**:
+* **dataset**: WN18, FB15K
 * **ppt/video**:
 * **curation**: Jiong Zhang 

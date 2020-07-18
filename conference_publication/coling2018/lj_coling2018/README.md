@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1023.pdf)
 * **code**: [link](https://github.com/lanyunshi/embedding-for-textual-entailment)
-* **dataset**:confusion set (CS)
+* **dataset**: SICK, SNLI
 * **ppt/video**:
 * **curation**: Jiong Zhang 

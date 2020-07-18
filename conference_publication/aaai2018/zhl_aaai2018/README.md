@@ -6,5 +6,5 @@
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16257/16125)
 * **code**:
 * **dataset**:
-* **ppt/video**:
+* **ppt/video**: NYT
 * **curation**: Jiong Zhang

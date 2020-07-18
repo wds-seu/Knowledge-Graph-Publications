@@ -1,0 +1,10 @@
+# GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions
+* **author**: Hanchen Wang, Defu Lian, Ying Zhang, Lu Qin, Xuemin Lin
+* **abstract**: Entity interaction prediction is essential in many important applications such as chemistry, biology, material science, and medical science. The problem becomes quite challenging when each entity is represented by a complex structure, namely structured entity, because two types of graphs are involved: local graphs for structured entities and a global graph to capture the interactions between structured entities. We observe that existing works on structured entity interaction prediction cannot properly exploit the unique graph of graphs model. In this paper, we propose a Graph of Graphs Neural Network, namely GoGNN, which extracts the features in both structured entity graphs and the entity interaction graph in a hierarchical way. We also propose the dual-attention mechanism that enables the model to preserve the neighbor importance in both levels of graphs. Extensive experiments on real-world datasets show that GoGNN outperforms the state-of-the-art methods on two representative structured entity interaction prediction tasks: chemical-chemical interaction prediction and drug-drug interaction prediction. Our code is available at Github.
+* **keywords**: Entity interaction prediction
+* **interpretation**: [来源: CSDN](https://blog.csdn.net/todoooooo/article/details/106389024)
+* **pdf**: [link](https://www.ijcai.org/Proceedings/2020/183)
+* **code**: [link](https://github.com/Hanchen-Wang/GoGNN)
+* **dataset**: [CCI](http://stitch.embl.de/download/chemical chemical.links.detailed.v5.0.tsv.gz), [DDI](https://www.pnas.org/content/suppl/2018/04/14/1803294115.DCSupplemental), [SE](http://snap.stanford.edu/decagon)
+* **ppt/video**:
+* **curation**: Jiong Zhang 

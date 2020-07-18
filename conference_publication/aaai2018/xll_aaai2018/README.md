@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 简书](https://www.jianshu.com/p/a65a0d18659d)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167)
 * **code**: [link](https://github.com/thunlp/KNET)
-* **dataset**:
+* **dataset**: WIKI-AUTO, WIKI-MAN
 * **ppt/video**:
 * **curation**: Jiong Zhang 

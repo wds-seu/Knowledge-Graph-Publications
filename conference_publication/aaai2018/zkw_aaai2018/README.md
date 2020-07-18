@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16539/15912)
 * **code**: [link](https://github.com/fskong/Embedding_of_Hierarchically_Typed_KB)
-* **dataset**:
+* **dataset**: FB15K, JF17K
 * **ppt/video**:
 * **curation**: Jiong Zhang 

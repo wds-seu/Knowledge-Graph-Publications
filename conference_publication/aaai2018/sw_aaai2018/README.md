@@ -5,6 +5,6 @@
 * **interpretation**: [来源: OpenKG](http://blog.openkg.cn/%E8%AE%BA%E6%96%87%E6%B5%85%E5%B0%9D-open-world-knowledge-graph-completion/)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16055/15901)
 * **code**: [link](https://github.com/bxshi/ConMask)
-* **dataset**:
+* **dataset**: FB15K, DBPedia50k, DBPedia500k
 * **ppt/video**:
 * **curation**: Jiong Zhang 

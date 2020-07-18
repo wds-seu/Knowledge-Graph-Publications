@@ -5,6 +5,6 @@
 * **interpretation**: [来源: BigQuant](https://bigquant.com/community/t/topic/121096)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17415/16787)
 * **code**: [暂无]()
-* **dataset**: SensEval, SemEval
+* **dataset**: SensEval-2, SensEval-3, SemEval-2007, SemEval-2013, SemEval-2015
 * **ppt/video**:
 * **curation**: Jiong Zhang 

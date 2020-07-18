@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 知乎](https://zhuanlan.zhihu.com/p/35721485)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17406/15895)
 * **code**: [link](https://github.com/allenai/semanticilp)
-* **dataset**:
+* **dataset**: REGENTS 4TH, REGENTS 8TH, AI2PUBLIC 4TH , AI2PUBLIC 8TH, PROCESSBANK
 * **ppt/video**:
 * **curation**: Jiong Zhang 

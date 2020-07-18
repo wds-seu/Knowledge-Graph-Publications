@@ -1,0 +1,10 @@
+# An Efficient Index for RDF Query Containment
+* **author**: 	Theofilos Mailis, Yannis Kotidis, Vaggelis Nikolopoulos, Evgeny Kharlamov, Ian Horrocks, Yannis E. Ioannidis
+* **abstract**: Query containment is a fundamental operation used to expedite query processing in view materialisation and query caching techniques. Since query containment has been shown to be NP-complete for arbitrary conjunctive queries on RDF graphs, we introduce a simpler form of conjunctive queries that we name f-graph queries. We first show that containment checking for f-graph queries can be solved in polynomial time. Based on this observation, we propose a novel indexing structure, named mv-index, that allows for fast containment checking between a single f-graph query and an arbitrary number of stored queries. Search is performed in polynomial time in the combined size of the query and the index. We then show how our algorithms and structures can be extended for arbitrary conjunctive queries on RDF graphs by introducing f-graph witnesses, i.e., f-graph representatives of conjunctive queries. F-graph witnesses have the following interesting property, a conjunctive query for RDF graphs is contained in another query only if its corresponding f-graph witness is also contained in it. The latter allows to use our indexing structure for the general case of conjunctive query containment. This translates in practice to microseconds or less for the containment test against hundreds of thousands of queries that are indexed within our structure.
+* **keywords**: RDF query
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://dl.acm.org/doi/10.1145/3299869.3319864)
+* **code**: 
+* **dataset**: DBpedia, WatDiv, Berlin SPARQL Benchmark, Berlin SPARQL Benchmark, LDBC social network benchmark
+* **ppt/video**:
+* **curation**: Jiong Zhang 

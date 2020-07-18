@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 机器之心](https://www.jiqizhixin.com/articles/2019-12-09-3)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17366/15884)
 * **code**: [link](https://github.com/TimDettmers/ConvE)
-* **dataset**:
+* **dataset**: WN18, FB15K, WN18RR, FB15K-237, YAGO3-10, Countries
 * **ppt/video**:
 * **curation**: Jiong Zhang 

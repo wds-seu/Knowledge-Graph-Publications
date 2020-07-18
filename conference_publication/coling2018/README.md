@@ -8,10 +8,11 @@
 * [Recurrent One-Hop Predictions for Reasoning over Knowledge Graphs](./yys_coling2018/README.md)
 * [Retrofitting Distributional Embeddings to Knowledge Graphs with Functional Relations](./lmp_coling/README.md)
 * [Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering](./sg_coling2018/README.md)
-* [Attributed and Predictive Entity Embedding for Fine-Grained Entity Typing in Knowledge Bases](./hxr_coling2018/README.md)
+* [Incorporating Image Matching Into Knowledge Acquisition for Event-Oriented Relation Recognition](./hxr_coling2018/README.md)
 * [Cross-lingual Knowledge Projection Using Machine Translation and Target-side Knowledge Base Completion](./okk_coling2018/README.md)
 * [The APVA-TURBO Approach To Question Answering in Knowledge Base](./wzx_coling2018/README.md)
 * [Exploratory Neural Relation Classification for Domain Knowledge Acquisition](./fwh_coling2018/README.md)
 * [Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge](dsy_coling2018/README.md)
+* [Attributed and Predictive Entity Embedding for Fine-Grained Entity Typing in Knowledge Bases](hlj_coling2018/README.md)
 ## System Demonstrations
 * [T-Know: a Knowledge Graph-based Question Answering and Infor-mation Retrieval System for Traditional Chinese Medicine](lpy_coling2018/README.md)

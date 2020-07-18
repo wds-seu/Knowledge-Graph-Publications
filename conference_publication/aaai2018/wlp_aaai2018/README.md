@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16094/15907)
 * **code**: 
-* **dataset**:
+* **dataset**: FB15K, FB13, WN11, WN18
 * **ppt/video**:
 * **curation**: Jiong Zhang 

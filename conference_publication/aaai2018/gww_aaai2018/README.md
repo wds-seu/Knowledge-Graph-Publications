@@ -5,6 +5,6 @@
 * **interpretation**: [来源: OpenKG](http://blog.openkg.cn/%e8%ae%ba%e6%96%87%e6%b5%85%e5%b0%9d-kg-embedding-with-iterative-guidance-from-soft-rules/)
 * **pdf**: [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16369/16011)
 * **code**: [link](https://github.com/iieir-km/RUGE)
-* **dataset**:
+* **dataset**: FB15K, YAGO37
 * **ppt/video**:
 * **curation**: Jiong Zhang 

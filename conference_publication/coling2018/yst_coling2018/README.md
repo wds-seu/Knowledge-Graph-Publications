@@ -4,7 +4,7 @@
 * **keywords**: word annotations, predict entity
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1016.pdf)
-* **code**: [link](https://github.com/studio- ousia/textent/)
-* **dataset**:DBpedia NIF abstract dataset
-* **ppt/video**:
+* **code**: [link](https://github.com/studio-ousia/textent/)
+* **dataset**: DBpedia NIF abstract dataset
+* **ppt/video**: 20NG, R8, Freebase_entityTyping
 * **curation**: Jiong Zhang 
