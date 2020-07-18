@@ -1,0 +1,22 @@
+# Publications in ACL2020 Groupd by Tracks
+
+## Name Entity Recognition
+- [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/lhb_acl2020/README.md)
+- [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/yjy_acl2020/README.md)
+- [Code and Named Entity Recognition in StackOverflow](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/tmx_acl2020/README.md)
+- [A Unified MRC Framework for Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/lfm_acl2020/README.md)
+- [An Effective Transition-based Model for Discontinuous NER](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/dkh_acl2020/README.md)
+- [Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/knm_acl2020/README.md)
+- [Multi-Cell Compositional LSTM for NER Domain Adaptation](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/jz_acl2020/README.md)
+- [Pyramid: A Layered Model for Nested Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/wsc_acl2020/README.md)
+- [Simplify the Usage of Lexicon in Chinese NER](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/mpz_acl2020/README.md)
+- [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/lz_acl2020/README.md)
+- [Connecting Embeddings for Knowledge Graph Entity Typing](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/zzx_acl2020/README.md)
+- [Named Entity Recognition as Dependency Parsing](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/ybp_acl2020/README.md)
+- [Neighborhood Matching Network for Entity Alignment](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/wlf_acl2020/README.md)
+- [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/wlk_acl2020/README.md)
+- [FLAT: Chinese NER Using Flat-Lattice Transformer](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/lyq_acl2020/README.md)
+- [Improving Entity Linking through Semantic Reinforced Entity Embeddings](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/hwh_acl2020/README.md)
+- [From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/kcg_acl2020/README.md)
+- [Temporally-Informed Analysis of Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/rp_acl2020/README.md)
+- [Sources of Transfer in Multilingual Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/acl2020/rzn_acl2020/README.md)
