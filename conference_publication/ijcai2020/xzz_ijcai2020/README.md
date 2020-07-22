@@ -1,0 +1,10 @@
+# KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction
+* **author**: Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma, Xiangxiang Zeng
+* **abstract**: Drug-drug interaction (DDI) prediction is a challenging problem in pharmacology and clinical application, and effectively identifying potential DDIs during clinical trials is critical for patients and society. Most of existing computational models with AI techniques often concentrate on integrating multiple data sources and combining popular embedding methods together. Yet, researchers pay less attention to the potential correlations between drug and other entities such as targets and genes. Moreover, recent studies also adopted knowledge graph (KG) for DDI prediction. Yet, this line of methods learn node latent embedding directly, but they are limited in obtaining the rich neighborhood information of each entity in the KG. To address the above limitations, we propose an end-to-end framework, called Knowledge Graph Neural Network (KGNN), to resolve the DDI prediction. Our framework can effectively capture drug and its potential neighborhoods by mining their associated relations in KG. To extract both high-order structures and semantic relations of the KG, we learn from the neighborhoods for each entity in the KG as their local receptive, and then integrate neighborhood information with bias from representation of the current entity. This way, the receptive field can be naturally extended to multiple hops away to model high-order topological information and to obtain drugs potential long-distance correlations. We have implemented our method and conducted experiments based on several widely-used datasets. Empirical results show that KGNN outperforms the classic and state-of-the-art models.
+* **keywords**: Drug-Drug Interaction Prediction
+* **interpretation**: [来源: 暂无]()
+* **pdf**: [link](https://www.ijcai.org/Proceedings/2020/380)
+* **code**: [link](https://github.com/xzenglab/KGNN)
+* **dataset**: DrugBank, KEGG-drug
+* **ppt/video**:
+* **curation**: Jiong Zhang 

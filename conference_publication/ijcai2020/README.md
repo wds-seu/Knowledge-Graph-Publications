@@ -28,3 +28,6 @@
 * [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](./xzz_ijcai2020/README.md)
 * [TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure](./fxz_ijcai2020/README.md)
 * [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](./xjb_ijcai2020/README.md)
+
+## Natural Language Processing
+* [Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base](./yhy_ijcal2020/README.md)
