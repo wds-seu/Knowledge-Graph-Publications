@@ -4,7 +4,7 @@
 * **keywords**: Natural Language Processing: Information Extraction, Natural Language Processing: Natural Language Processing
 * **interpretation**: 
 * **pdf**:  [link](https://www.ijcai.org/Proceedings/2018/0620.pdf)
-* **code**: 
+* **code**: [link](https://github.com/hitwsl/joint-entity-relation)
 * **dataset**: NYT
 * **ppt/video**: 
 * **curator**: Chang Liu
