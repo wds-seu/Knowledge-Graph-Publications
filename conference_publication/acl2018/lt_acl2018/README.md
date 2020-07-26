@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: 
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-1148.pdf)
-* **code**: 
+* **code**: [link](https://github.com/lephong/mulrel-nel)
 * **dataset**: AIDA-CoNLL
 * **ppt/video**: 
 * **curator**: Chang Liu
