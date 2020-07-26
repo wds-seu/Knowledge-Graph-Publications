@@ -5,7 +5,7 @@
 - **interpretation**: 
 - **pdf**: [paper](https://people.mpi-inf.mpg.de/~gadelrab/downloads/WWW2019/Tracy_preprint.pdf)
 - **code**:
-- **dataset**: 
+- **dataset**: YAGO
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
 
