@@ -4,7 +4,7 @@
 * **keywords**: Machine Learning: Data Mining, Multidisciplinary Topics and Applications: Intelligent Database Systems, Uncertainty in AI: Relational Inference
 * **interpretation**: 
 * **pdf**:  [link](https://www.ijcai.org/Proceedings/2018/0749.pdf)
-* **code**: 
+* **code**: [link](https://github.com/Tpt/CARL)
 * **dataset**:WikidataPeople, LUBM
 * **ppt/video**: 
 * **curator**: Chang Liu
