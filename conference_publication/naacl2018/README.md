@@ -6,7 +6,7 @@
 - [ELDEN: Improved Entity Linking Using Densified Knowledge Graphs](./rtv_naacl2018/README.md) 
 - [Learning beyond Datasets: Knowledge Graph Augmented Neural Networks for Natural Language Processing](./mcd_naacl2018/README.md) 
 - [Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis](./kkk_naacl2018/README.md) 
-- [Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks](.msl/_naacl2018/README.md) 
+- [Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks](./msl_naacl2018/README.md) 
 - [A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network](./nnn_naacl2018/README.md) 
 - [Demand-Weighted Completeness Prediction for a Knowledge Base](./hgp_naacl2018/README.md) 
 - [Joint Bootstrapping Machines for High Confidence Relation Extraction](./grs_naacl2018/README.md) 
