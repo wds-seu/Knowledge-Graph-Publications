@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4730/4608)
 - **code**: [github](https://github.com/masashi-y/abduction_kbc)
-- **dataset**: WordNet 
+- **dataset**: LexSICK 
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
