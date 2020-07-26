@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: [link](https://www.jianshu.com/p/ad4799873afb)
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-1010.pdf)
-* **code**: [link](nts: https://github.com/MurtyShikhar/Hierarchical-Typing)
+* **code**: [link](https://github.com/MurtyShikhar/Hierarchical-Typing)
 * **dataset**: FIGER, Wikipedia, MedMentions
 * **ppt/video**: 
 * **curator**: Chang Liu
