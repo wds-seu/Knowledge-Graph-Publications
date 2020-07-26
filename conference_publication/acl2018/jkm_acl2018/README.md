@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: 
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-2013.pdf)
-* **code**: 
+* **code**: [link](https://github.com/dair-iitd/KBI)
 * **dataset**: FB15K, FB15K-237, YAGO3-10
 * **ppt/video**: 
 * **curator**: Chang Liu
