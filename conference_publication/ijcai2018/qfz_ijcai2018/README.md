@@ -4,7 +4,7 @@
 * **keywords**:Natural Language Processing: Knowledge Extraction, Natural Language Processing: Embeddings
 * **interpretation**: 
 * **pdf**:  [link](https://www.ijcai.org/Proceedings/2018/0596.pdf)
-* **code**: 
+* **code**: [link](https://github.com/thunlp/KB2E)
 * **dataset**: WN18, FB15k, WN11, FB13 
 * **ppt/video**: 
 * **curator**: Chang Liu
