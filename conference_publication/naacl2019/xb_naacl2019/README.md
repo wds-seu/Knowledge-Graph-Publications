@@ -5,6 +5,6 @@
 * **interpretation**: 
 * **pdf**: [paper](https://www.aclweb.org/anthology/N19-1323.pdf)
 * **code**: [github](https://github.com/billy-inn/HRERE)
-* **dataset**:NYT, Freebase 
+* **dataset**: NYT, Freebase 
 * **ppt/video**: 
 * **curation**: Xiaoyu Shang
