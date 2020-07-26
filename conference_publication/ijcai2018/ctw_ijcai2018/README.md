@@ -5,6 +5,6 @@
 * **interpretation**: 
 * **pdf**:  [link](https://www.ijcai.org/Proceedings/2018/0556.pdf)
 * **code**: 
-* **dataset**: WK3l60k,
+* **dataset**: WK3l60k
 * **ppt/video**: 
 * **curator**: Chang Liu
