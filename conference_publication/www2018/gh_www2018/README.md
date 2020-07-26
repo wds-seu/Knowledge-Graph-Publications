@@ -4,7 +4,7 @@
 - **keywords**: Semantic Web, Schema, Knowledge Graph, Dynamics, FCA  
 - **interpretation**: 
 - **pdf**: [paper](http://aidanhogan.com/docs/wikidata_schema_dynamics.pdf)
-- **code**: 
-- **dataset**: 
+- **code**: [github](https://github.com/larryjgonzalez/rdf_dynamics)
+- **dataset**: Wikipedia
 - **ppt/video**:
 - **curator**: Xiaoyu Shang 
