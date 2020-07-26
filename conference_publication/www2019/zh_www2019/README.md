@@ -6,6 +6,6 @@ We in this work take a different tack, proposing a transfer-learning approach to
 - **interpretation**: 
 - **pdf**: [paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Auto-EM.pdf)
 - **code**: [github](https://github.com/henryzhao5852/AutoEM)
-- **dataset**: 
+- **dataset**: Wikipedia
 - **ppt/video**:
 - **curator**: Xiaoyu Shang
