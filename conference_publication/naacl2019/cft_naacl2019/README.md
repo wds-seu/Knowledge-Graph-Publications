@@ -4,7 +4,7 @@
 * **keywords**: 
 * **interpretation**: [OpenKG]( https://mp.weixin.qq.com/s/cNeLR6SOmJN_BaK9nTPueA )
 * **pdf**: [paper](https://www.aclweb.org/anthology/N19-1032.pdf)
-* **code**: [github]( https://github.com/ caoyu1991/BAG)
+* **code**: [github](https://github.com/caoyu1991/BAG)
 * **dataset**: QAngaroo WIKIHOP
 * **ppt/video**: 
 * **curation**: Xiaoyu Shang
