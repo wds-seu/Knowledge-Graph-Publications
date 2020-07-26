@@ -7,6 +7,6 @@ entity linking, which leverages information from a highresource “pivot” lang
 - **interpretation**: 
 - **pdf**: [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4670/4548)
 - **code**: [github](https://github.com/neulab/pivot-based-entity-linking)
-- **dataset**: 
+- **dataset**: English Wikipedia
 - **ppt/video**:
 - **curator**: Xiaoyu Shang
