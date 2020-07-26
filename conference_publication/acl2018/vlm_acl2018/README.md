@@ -6,6 +6,6 @@
 * **interpretation**: 
 * **pdf**:  [link](https://www.aclweb.org/anthology/P18-1025.pdf)
 * **code**: 
-* **dataset**: WordNet
+* **dataset**: WordNet, Flickr
 * **ppt/video**: 
 * **curator**: Chang Liu
