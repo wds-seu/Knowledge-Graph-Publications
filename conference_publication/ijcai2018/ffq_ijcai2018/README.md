@@ -4,7 +4,7 @@
 * **keywords**: Machine Learning: Neural Networks, Natural Language Processing: Information Extraction, Machine Learning: Deep Learning, Natural Language Processing: Named Entities
 * **interpretation**: 
 * **pdf**:  [link](https://www.ijcai.org/Proceedings/2018/0566.pdf)
-* **code**: 
+* **code**: [link](https://github.com/scir-code/lrner)
 * **dataset**: CoNLL-2002, Ontonotes 4.0
 * **ppt/video**: 
 * **curator**: Chang Liu
