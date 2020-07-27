@@ -8,8 +8,4 @@
 
 - [Demographic Inference Via Knowledge Transfer in Cross-Domain Recommender Systems](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/icdm2018/ssc_icdm2018/README.md)
 
-- [Enhancing Question Understanding and Representation for Knowledge Base Relation Detection](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/icdm2018/xzf_icdm2018/README.md)
-
-- [A Knowledge-Enhanced Deep Recommendation Framework Incorporating GAN-Based Models](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/icdm2018/ygw_icdm2018/README.md)
-
   
