@@ -5,7 +5,7 @@
 - **keywords**:
 - **interpretation**:[review](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/80823385)
 - **pdf**: [pdf](https://www.researchgate.net/publication/320635589_Answering_Natural_Language_Questions_by_Subgraph_Matching_over_Knowledge_Graphs)
-- **code**:
-- **dataset**:DBpedia RDF repository, Freebase, Patty relation mention dataset
+- **code**: [code](https://github.com/pkumod/gAnswer)
+- **dataset**:DBpedia
 - **ppt/video**:
 - **curator**: Yawen Dai
