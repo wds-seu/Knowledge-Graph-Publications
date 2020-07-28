@@ -6,11 +6,11 @@
 
 - **keywords**:
 
-- **interpretation**:
+- **interpretation**: [review](https://blog.csdn.net/Seal_Wings/article/details/102872100)
 
 - **pdf**: [pdf](https://arxiv.org/pdf/1908.07245)
 
-- **code**: 
+- **code**: [code](https://github.com/HSLCY/GlossBERT)
 
 - **dataset**: WSD
 
