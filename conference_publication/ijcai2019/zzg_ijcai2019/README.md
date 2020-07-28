@@ -14,7 +14,7 @@
 
 - **code**:
 
-- **dataset**:FB15k,WN18
+- **dataset**:FB15K,WN18
 
 - **ppt/video**:
 
