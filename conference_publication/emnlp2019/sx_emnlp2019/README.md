@@ -12,7 +12,7 @@
 
 - **code**:
 
-- **dataset**:  DBP15K dataset
+- **dataset**:  DBP15K
 
 - **ppt/video**:
 
