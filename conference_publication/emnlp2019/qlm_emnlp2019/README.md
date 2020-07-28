@@ -6,6 +6,6 @@
 - **interpretation**:[review](http://mini.eastday.com/mobile/191108220422841.html#)
 - **pdf**: [pdf](https://arxiv.org/pdf/1910.07000v1)
 - **code**: [code](https://github.com/qipeng/golden-retriever)
-- **dataset**: HOTPOTQA,
+- **dataset**: HOTPOTQA
 - **ppt/video**:
 - **curator**: Yawen Dai
