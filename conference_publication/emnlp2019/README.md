@@ -11,7 +11,6 @@
 * [Feature2Vec: Distributional semantic modelling of human property knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/dmd_emnlp2019/README.md)
 * [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lnw_emnlp2019/README.md)
 * [Machine Reading Comprehension Using Structural Knowledge Graph-aware Network](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/qzf_emnlp2019/README.md)
-* [Rewarding Coreference Resolvers for Being Consistent with World Knowledge](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/lch_emnlp2019/README.md)
 
 
 
