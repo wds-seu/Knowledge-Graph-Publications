@@ -14,7 +14,7 @@
 
 - **pdf**: [pdf](https://www.ijcai.org/Proceedings/2019/0733.pdf)
 
-- **code**:
+- **code**: [code](https://github.com/StephanieWyt/RDGCN)
 
 - **dataset**:DBP15K
 
