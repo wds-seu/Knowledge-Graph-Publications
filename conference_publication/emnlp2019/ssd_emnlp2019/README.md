@@ -6,7 +6,7 @@
 
 - **keywords**:
 
-- **interpretation**:待补充
+- **interpretation**: [review](https://www.cs.mcgill.ca/~ksinha4/introducing-clutrr/)
 
 - **pdf**: [pdf](https://arxiv.org/pdf/1908.06177)
 
