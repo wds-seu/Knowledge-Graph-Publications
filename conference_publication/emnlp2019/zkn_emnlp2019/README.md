@@ -5,7 +5,7 @@
 - **keywords**:
 - **interpretation**:待补充
 - **pdf**: [pdf](https://arxiv.org/pdf/1909.03065)
-- **code**:
+- **code**: [code](https://github.com/CogComp/MCTACO)
 - **dataset**:MCTACO
 - **ppt/video**:
 - **curator**: Yawen Dai
