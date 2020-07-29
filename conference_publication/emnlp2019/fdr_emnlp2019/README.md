@@ -12,7 +12,7 @@
 
 - **code**: [code](https://github.com/JoshFeldman95/Extracting-CK-from-Large-LM)
 
-- **dataset**: 
+- **dataset**: novel commonsense knowledge from Wikipedia
 
 - **ppt/video**:
 
