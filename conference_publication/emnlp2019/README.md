@@ -114,7 +114,6 @@
 ## Name Entity Recognition
 
 * [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/gzz_emnlp2019/README.md)
-* [A Boundary-aware Neural Model for Nested Named Entity Recognition](https://github.com/wds-seu/Knowledge-Graph-Publications/blob/master/conference_publication/emnlp2019/zcx_emnlp2019/README.md) 
 
 
 
