@@ -5,7 +5,7 @@
 - **keywords**:
 - **interpretation**:
 - **pdf**: [pdf](https://arxiv.org/pdf/1910.08435)
-- **code**: [implementation](https://github.com/huggingface/neuralcoref)  , [inplementation](https://github.com/gabrielStanovsky/supervised-oie) ,[dataset](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators/wikisum) 
+- **code**:
 - **dataset**: ELI5, WikiSum
 - **ppt/video**:
 - **curator**: Yawen Dai
