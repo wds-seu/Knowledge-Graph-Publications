@@ -10,7 +10,7 @@
 
 - **pdf**: [pdf](https://arxiv.org/pdf/1909.04164)
 
-- **code**: 
+- **code**: [code](https://github.com/allenai/kb)
 
 - **dataset**:AIDA-CoNLL
 
