@@ -4,7 +4,7 @@
 * **keywords**: knowledge graph, enterprise ai, datalog, finance, knowledge graph management system, reasoning, ai-driven applications
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://ieeexplore.ieee.org/document/8731350/)
-* **code**: [link]()
+* **code**: 
 * **dataset**:
 * **ppt/video**:
 * **curation**: Jiong Zhang 

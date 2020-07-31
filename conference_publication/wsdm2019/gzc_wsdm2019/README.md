@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 知乎](https://zhuanlan.zhihu.com/p/67626535)
 * **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3290970?download=true)
 * **code**: [暂无]()
-* **dataset**: DBpedia, YAGO
+* **dataset**: DBpedia(version 2016-10), YAGO(version 3.1)
 * **ppt/video**:
 * **curation**: Jiong Zhang 

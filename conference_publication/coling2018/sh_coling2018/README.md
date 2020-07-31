@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1027.pdf)
 * **code**: 
-* **dataset**: 
+* **dataset**: Newsela
 * **ppt/video**:
 * **curation**: Jiong Zhang 

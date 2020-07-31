@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3291004?download=true)
 * **code**: [暂无]()
-* **dataset**: FreeBase
+* **dataset**: FreeBase, NYT
 * **ppt/video**:
 * **curation**: Jiong Zhang 

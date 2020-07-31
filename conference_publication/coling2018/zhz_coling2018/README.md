@@ -5,6 +5,6 @@
 * **interpretation**: [来源: PaperWeekly](https://mp.weixin.qq.com/s/e5Kb590xoDIUkv_TKW1uZA)
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1171.pdf)
 * **code**: 
-* **dataset**: [PathQuestion (PQ)](https://github.com/zmtkeke/IRN)
-* **ppt/video**:
+* **dataset**: [PathQuestion (PQ)](https://github.com/zmtkeke/IRN), WorldCup2014
+* **ppt/video**: 
 * **curation**: Jiong Zhang 

@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://dl.acm.org/doi/10.1145/3299869.3319864)
 * **code**: 
-* **dataset**: DBpedia, WatDiv, Berlin SPARQL Benchmark, Berlin SPARQL Benchmark, LDBC social network benchmark
+* **dataset**: DBpedia, WatDiv, Berlin SPARQL Benchmark, Lehigh University Benchmark (LUBM), LDBC social network benchmark
 * **ppt/video**:
 * **curation**: Jiong Zhang 

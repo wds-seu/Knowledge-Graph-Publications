@@ -4,7 +4,7 @@
 * **keywords**: Machine Translation, obtain facts
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1128.pdf)
-* **code**: [link](https://github.com/notani/CLKP- MTKBC)
-* **dataset**: ConceptNet version 5.5.0
+* **code**: [link](https://github.com/notani/CLKP-MTKBC)
+* **dataset**: ConceptNet 5.5.0
 * **ppt/video**:
 * **curation**: Jiong Zhang 

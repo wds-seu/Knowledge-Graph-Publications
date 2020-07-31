@@ -5,6 +5,6 @@
 * **interpretation**: [来源: PaperWeekly](https://www.sohu.com/a/316212710_500659)
 * **pdf**: [link](https://dl.acm.org/doi/pdf/10.1145/3289600.3290961?download=true)
 * **code**: [link](https://github.com/KashinYana/link-prediction)
-* **dataset**: Movielens, Frwiki, Condmat
+* **dataset**: PowerGrid, Euroroad, Airport, Facebook, Reactome, Ca-HepTh
 * **ppt/video**:
 * **curation**: Jiong Zhang 

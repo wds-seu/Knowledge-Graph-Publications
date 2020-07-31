@@ -4,7 +4,7 @@
 * **keywords**: Keyword search, Steiner trees, Parallel search
 * **interpretation**: [来源: 知乎](https://zhuanlan.zhihu.com/p/100447771)
 * **pdf**: [link](https://ieeexplore.ieee.org/document/8731500/)
-* **code**: [link]()
-* **dataset**:
+* **code**: 
+* **dataset**: wiki2017, wiki2018
 * **ppt/video**:
 * **curation**: Jiong Zhang 

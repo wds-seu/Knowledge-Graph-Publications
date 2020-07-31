@@ -5,6 +5,6 @@
 * **interpretation**: [来源: 暂无]()
 * **pdf**: [link](https://www.aclweb.org/anthology/C18-1170.pdf)
 * **code**:
-* **dataset**: WebQuestion
+* **dataset**: SimpleQuestions, WebQuestion
 * **ppt/video**:
 * **curation**: Jiong Zhang 
