@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358033)
 - **code**: 
-- **dataset**: 
+- **dataset**: CompQWeb,WebQSP
 - **ppt/video**:
 - **curator**: Wu Bo

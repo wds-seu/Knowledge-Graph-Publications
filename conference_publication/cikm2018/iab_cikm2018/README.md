@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3269250)
 - **code**: 
-- **dataset**: 
+- **dataset**: Wikipedia documents
 - **ppt/video**:
 - **curator**: Wu Bo

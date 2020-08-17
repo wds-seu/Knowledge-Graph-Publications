@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271769)
 - **code**: 
-- **dataset**: 
+- **dataset**: FB12、FB15k、FB15k-237、WN18RR
 - **ppt/video**:
 - **curator**: Wu Bo

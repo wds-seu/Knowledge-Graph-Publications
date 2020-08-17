@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3269266)
 - **code**: 
-- **dataset**: 
+- **dataset**: FB15k,FB15k237
 - **ppt/video**:
 - **curator**: Wu Bo

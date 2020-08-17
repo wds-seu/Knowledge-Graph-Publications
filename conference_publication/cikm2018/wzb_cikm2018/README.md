@@ -5,6 +5,7 @@
 - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)
 - **code**: 
-- **dataset**: 
+- **dataset**: 15 assertion datasets, all of which
+are extracted from the ClueWeb09 corpus using RseVerb
 - **ppt/video**:
 - **curator**: Wu Bo

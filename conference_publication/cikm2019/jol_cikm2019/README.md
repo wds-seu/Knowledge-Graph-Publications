@@ -5,6 +5,6 @@
 - **interpretation**:
 - **pdf**:[paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3358008)
 - **code**: 
-- **dataset**: 
+- **dataset**: YAGO and DBpedia.
 - **ppt/video**:
 - **curator**: Wu Bo

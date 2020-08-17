@@ -5,6 +5,7 @@
 - - **interpretation**:
 - **pdf**: [paper](https://dl.acm.org/doi/pdf/10.1145/3357384.3357997)
 - **code**: 
-- **dataset**: 
+- **dataset**: aligning Freebase with New York Times corpus
+(NYT).
 - **ppt/video**:
 - **curator**: Wu Bo
